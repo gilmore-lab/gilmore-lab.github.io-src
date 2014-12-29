@@ -1,0 +1,157 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrapper {
+	width: 770px;
+}
+
+#banner {
+	float: left;
+}
+
+#main {
+	float: none;
+	clear: both;
+	margin: 0;
+	margin-bottom: 2px;
+}
+
+#footer {
+	text-align: center;
+	background-color:#7777DD;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: .8em;
+}
+
+img.figure {
+	float: right;
+}
+
+body {
+	background-color: #FFF;
+	margin: 0;
+}
+	
+h1 {
+	color: #3333EE;
+	padding-top: 1em;
+	text-align: right;
+	font-size: 1.7em;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	margin-left: 5px;
+	padding-left: .8em;
+	text-align: left;
+	margin-bottom: 0;
+	background-color: #7777DD;
+}
+
+h3 {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-left: .8em;
+	text-align: center;
+	margin-bottom: 0;
+	background-color: #7777AA;
+}
+
+p {
+	color: #000;
+	font-size: 1em;
+	margin-top: 1em;
+	margin-left: 5px;
+	padding-left: 1em;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color:	#7777DD;
+}
+
+/* NAVIGATION */
+
+p.hanging {
+	text-indent: -1em;
+}
+
+
+/* Main navigation menu bar styles */
+
+/* Unordered list styles */
+ul#mainNav {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 2em;
+	padding: 0;
+	list-style: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: small-caps;
+}
+
+#mainNav li {
+	float: left;
+	width: 11em;
+	margin: 0 .25em 0 0; 
+}
+
+#faqs li{
+	font-size: 1.1em;
+	font-family: Arial, Helvetica, sans-serif; 
+	color: #22F;
+	font-style:italic;
+	font-variant: small-caps;
+}
+
+
+/* LInk style */
+#mainNav a {
+	color: #33E;
+	font-size: 1.1em;
+	text-decoration: none;
+	text-align: center;
+	display: block;
+	background-color: #E7E7E7;
+	background-position: left center;	
+}
+
+#mainNav a:hover {
+	font-weight: bold;
+	background: #7777DD;
+}
+
+body#home a#homeLink,
+body#lab a#labLink, 
+body#parents a#parentsLink,
+body#students a#studentsLink
+{
+	background: #EEF;
+	font-weight: bold;
+}
+
+/*
+ul#mainNav li {
+	float: left;
+	height: 1.2em;
+	padding: 0 0.5em;
+	list-style: none;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	margin-left: 3px;
+	margin-bottom: 0;
+	background-color: #7777DD;
+}
+*/
