@@ -47,9 +47,11 @@ The [Databrary Project ](http://databrary.org) aims to increase scientific trans
 Databrary is an [open-source](http://github.com/databrary) software project. Penn State is one of the major "nodes", with a large number of authorized users.
 
 ** Publications **
+
 - Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
 
 ** Collaborators **
+
 - Karen Adolph, New York University, Co-Principal Investigator and Project Director
 - David Millman, New York University, Co-Investigator.
 
