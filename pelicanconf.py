@@ -29,9 +29,9 @@ DEFAULT_PAGINATION = 4
 STATIC_PATHS = ['images', 'pdfs']
 PAGE_PATHS = ['pages']
 INDEX_SAVE_AS = 'blog_index.html'
-OUTPUT_PATH = ''
+OUTPUT_PATH = '/'
 
 THEME = 'theme/tuxlite_tbs'
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URLS = True
