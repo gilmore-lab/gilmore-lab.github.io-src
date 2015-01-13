@@ -17,5 +17,5 @@ University Park, PA 16801<br/>
 
 rogilmore AT-SIGN psu DOT edu<br/>
 
-[http://www.personal.psu.edu/rog1](http://www.personal.psu.edu/rog1)
-[http://rick-gilmore.org](http://rick-gilmore.org)
+<a href="http://www.personal.psu.edu/rog1">http://www.personal.psu.edu/rog1</a></br>
+<a href="http://rick-gilmore.org">http://rick-gilmore.org</a>

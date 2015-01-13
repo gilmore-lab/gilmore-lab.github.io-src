@@ -30,6 +30,8 @@ Fesi, J.D., Yannes, M.P., Brinckman, D.D., Norcia, A.M., Ales, J.M., &
 Gilmore, R.O. (2011). Distinct cortical responses to 2D figures defined
 by motion contrast. *Vision Research*, *51*(19), 2110-2120. [doi:10.1016/j.visres.2011.07.015](http://dx.doi.org/10.1016/j.visres.2011.07.015)
 
+Pemberton, C., Bass, A., Moore, G., Murray-Kolb, L., Tan, P., Gilmore, R.O., Buss, K., Cole, P.M, & Teti, L.O. (2011). Let me go: The influence of crawling experience and temperament on the development of anger reactivity and regulation. *Infancy*, *17*(5), 558-577. [doi:10.1111/j.1532-7078.2011.00092.x](10.1111/j.1532-7078.2011.00092.x)
+
 Weinstein, J.M., Gilmore, R.O., Trescher, W.V., Shaikh, S.M., Tashima,
 L.M., Boltz, M.E., McAuliffe, M.B., Cheung, A., Fesi, J.D., & Kunselman,
 A.R. (2011). Defective motion processing in children with cerebral
