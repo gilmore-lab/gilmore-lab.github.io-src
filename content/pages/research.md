@@ -36,6 +36,8 @@ This project is supported by the National Science Foundation under grant [IIS-12
 
 ## Databrary
 
+<img src="http://databrary.org/theme/img/logo/databrary.png">
+
 The [Databrary Project ](http://databrary.org) aims to increase scientific transparency and accelerate discovery in developmental science by building the infrastructure for researchers to share video data and related meta-data. The project has five specific aims:
 
 - Create a web-based [data library](http://databrary.org) for sharing and preserving video data and associated meta-data.

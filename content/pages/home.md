@@ -28,8 +28,8 @@ We have two testing sites.
 The Pennsylvania State University</br>
 University Park, PA 16802</br>
 814-863-3116</br>
-[Campus map near Moore]({filename}/images/moore-map.jpg)
 </p>
+![Campus map]({filename}/images/moore-map.jpg)
 
 Parking for studies at the Moore Building can be found in the Nittany Lion Parking Deck.
 

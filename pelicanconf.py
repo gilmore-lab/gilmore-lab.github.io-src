@@ -29,7 +29,7 @@ DEFAULT_PAGINATION = 4
 STATIC_PATHS = ['images', 'pdfs']
 PAGE_PATHS = ['pages']
 INDEX_SAVE_AS = 'blog_index.html'
-OUTPUT_PATH = '/'
+OUTPUT_PATH = '/output'
 
 THEME = 'theme/tuxlite_tbs'
 
