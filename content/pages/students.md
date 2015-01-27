@@ -2,7 +2,7 @@ Title: students
 
 # For Students
 
-The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2015**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. 
+The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2015**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
     
 ## Current Members
 
@@ -16,10 +16,10 @@ The Brain Development Lab, part of the [Psychology Department](http://psych.la.p
 
 ## Recent Alumni
 
-- Dan Elbich, Graduate Student, Penn State
-- Jeremy Fesi, Ph.D.., Postdoctoral Scientist, McGill University
-- Lorena Gonzalez, Graduate Student, Penn State
-- Ricky Groner, Graduate Student, Penn State
+- Dan Elbich, Graduate student, Penn State
+- Jeremy Fesi, Ph.D., Postdoctoral Scientist, CUNY
+- Lorena Gonzalez, Graduate student, Penn State
+- Ricky Groner, Graduate student, Penn State
 - Ken Hwang, Programmer, College of the Liberal Arts
-- Matthew Lee, MBA Student, Penn State
+- Matthew Lee, MBA student, Penn State
 - Patricia Jones, Optometry student, Pennsylvania College of Optometry

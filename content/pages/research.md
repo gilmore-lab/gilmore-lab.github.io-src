@@ -4,6 +4,8 @@ Title: research
 
 ## Developmental Dynamics of Optic Flow Processing
 
+![Brain activity]({filename}/images/fesi-2014.jpg) ![Optic flow]({filename}/images/optic-flow.jpg)
+
 Visual motion provides humans and animals with information about their own movement through 3D space and about the structure of the environment -- the objects, surfaces, and other animals that it may contain. How the human brain processes complex motion information poses an as-yet unanswered question. This project focuses on characterizing how sensitivity to visual motion emerges in the developing human brain: how brain (EEG) responses to patterns of ego- and object motion emerge, how they develop from infancy through childhood into adulthood, how specific changes in cortical circuitry might account for the observed patterns, and how behavioral sensitivity to motion corresponds to neural activation. The studies compare brain responses and behavioral discrimination patterns in infants, children, and adults to the same types of ego- and object motion. The studies also involve an effort to measure or simulate the statistics of optic flow experienced by infant, child, and adult observers in complex, natural environments using computer vision methods.
 
 ** Publications **
@@ -15,13 +17,15 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 ** Collaborator **
 
-- Florian Raudies, Boston University
+- Florian Raudies, Hewlett-Packard
 
 ** Support **
 
 This project is supported by the National Science Foundation under grant [BCS-1147440](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1147440).
 
 ## Computational Symmetry
+
+![Symmetric image]({filename}/images/symmetry-sample-1.png) ![Symmetric image]({filename}/images/symmetry-sample-2.png)
 
 The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.
 
@@ -33,8 +37,6 @@ The ability to sense regular or near-regular patterns serves critical biological
 ** Support **
 
 This project is supported by the National Science Foundation under grant [IIS-1248076](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1248076).
-
-## Databrary
 
 <img src="http://databrary.org/theme/img/logo/databrary.png">
 
