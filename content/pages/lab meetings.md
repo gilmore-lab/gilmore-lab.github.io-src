@@ -3,7 +3,6 @@ For the Spring 2015 Semester, our will meet at 8:15am on Thursdays in the lab co
    
 ## Lab Meeting Minutes
 
-<table>
 {|
 |Dates|
 |:----:|:----:|:----:|
