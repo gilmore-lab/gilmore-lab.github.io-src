@@ -6,7 +6,7 @@ For the Spring 2015 Semester, our will meet at 8:15am on Thursdays in the lab co
 <table>
 {|
 |Dates|
-|----|----|----|
+|:----:|:----:|:----:|
 |[January 22, 2015] (https://github.com/gilmore-lab/mtg-minutes/blob/master/2015-01-22.md)
 |January 29, 2015
 |February 5, 2015
