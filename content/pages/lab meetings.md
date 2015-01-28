@@ -3,28 +3,19 @@ For the Spring 2015 Semester, our will meet at 8:15am on Thursdays in the lab co
    
 ## Lab Meeting Minutes
 
-{|
-|Dates|
-|:----:|:----:|:----:|
-|[January 22, 2015] (https://github.com/gilmore-lab/mtg-minutes/blob/master/2015-01-22.md)
-|January 29, 2015
-|February 5, 2015
-|---
-|February 12, 2015
-|February 19, 2015
-|February 26, 2015
-|---
-|March 5, 2015
-|March 19, 2015
-|March 26, 2015
-|---
-|April 2, 2015
-|April 9, 2015
-|April 16, 2015
-|---
-|April 23, 2015
-|April 30, 2015
-|}
+-[January 22, 2015] (https://github.com/gilmore-lab/mtg-minutes/blob/master/2015-01-22.md)
+-January 29, 2015
+-February 5, 2015
+-February 12, 2015
+-February 19, 2015
+-March 5, 2015
+-March 19, 2015
+-March 26, 2015
+-April 2, 2015
+-April 9, 2015
+-April 16, 2015
+-April 23, 2015
+-April 30, 2015
 
 ## Lab Journal Club
 
