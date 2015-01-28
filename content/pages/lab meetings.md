@@ -10,7 +10,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 [January 22, 2015] (https://github.com/gilmore-lab/mtg-minutes/blob/master/2015-01-22.md)  
 January 29, 2015  
 
-     - Irimia, A., Goh, S.-Y. M., Torgerson, C. M., Stein, N. R., Chambers, M. C., Vespa, P. M., & Van Horn, J. D. (2013). [Electroencephalographic inverse localization of brain activity in acute traumatic brain injury as a guide to surgery, monitoring and treatment. Clinical Neurology and Neurosurgery] (http://dx.doi.org/10.1016/j.clineuro.2013.08.003), 115(10).
+- Irimia, A., Goh, S.-Y. M., Torgerson, C. M., Stein, N. R., Chambers, M. C., Vespa, P. M., & Van Horn, J. D. (2013). [Electroencephalographic inverse localization of brain activity in acute traumatic brain injury as a guide to surgery, monitoring and treatment. Clinical Neurology and Neurosurgery] (http://dx.doi.org/10.1016/j.clineuro.2013.08.003), 115(10).
 
 February 5, 2015  
 February 12, 2015  
