@@ -13,7 +13,7 @@ cd ~/Sites/gilmore-lab.github.io
 git checkout master
 echo ">>> Copying files from src to destination."
 cp -r ~/Sites/gilmore-lab.github.io-src/output/ .
-git add *.html author/ pages/ tag/ theme/ images/
+git add *.html author/ pages/ tag/ theme/ images/ category/
 echo "Committing changes."
 git commit -m "Updating site."
 echo ">>> Pushing changes to remote."
