@@ -14,7 +14,8 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 - January 29, 2015
     - Jun, William, Michael, Sam and Rick attended.
     - Jun will lead a discussion of the following paper: Irimia, A., Goh, S.-Y. M., Torgerson, C. M., Stein, N. R., Chambers, M. C., Vespa, P. M., & Van Horn, J. D. (2013). Electroencephalographic inverse localization of brain activity in acute traumatic brain injury as a guide to surgery, monitoring and treatment. Clinical Neurology and Neurosurgery, 115(10). [http://dx.doi.org/10.1016/j.clineuro.2013.08.003](http://dx.doi.org/10.1016/j.clineuro.2013.08.003)
-    - Discussed using Markdown for student bios. [Markdown Help](https://help.github.com/articles/markdown-basics/)
+    - Discussed using Markdown for student bios. [Markdown Help](https://help.github.com/articles/markdown-basics/).
+    - Discussed [logo contest](https://app.asana.com/0/24984362312919/24984362312933).
 - February 5, 2015  
 - February 12, 2015  
 - February 19, 2015  
