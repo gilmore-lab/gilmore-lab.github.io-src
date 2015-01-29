@@ -17,7 +17,8 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
     - Discussed using Markdown for student bios. [Markdown Help](https://help.github.com/articles/markdown-basics/).
     - Discussed [logo contest](https://app.asana.com/0/24984362312919/24984362312933).
 - February 5, 2015  
-- February 12, 2015  
+- February 12, 2015
+    - Sam will present.
 - February 19, 2015  
 - March 5, 2015  
 - March 19, 2015  
