@@ -9,4 +9,4 @@ She completed MRI based neuroscience and orthopedics research while working at [
 Department of Psychology<br/>
 The Pennsylvania State University<br/>
 University Park, PA 16802<br/>
-[ars17@psu.edu](mailto:ars17@psu.edu)</p>
+ars17 AT-SIGN psu DOT edu</p>
