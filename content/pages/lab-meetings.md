@@ -20,7 +20,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
     - Jun, Michael, Shivani, Andrea, Rick 
     - Discussed bios on GitHub, child abuse reporting training, lab photo scheduling, epilepsy video.
 - February 12, 2015
-    - Sam will present the following paper: Dawson, N., Morris, B. J., & Pratt, J. A. (2015). Functional brain connectivity phenotypes for schizophrenia drug discovery. Journal of Psychopharmacology, 29(2), 169–177. [doi:10.1177/0269881114563635](http://jop.sagepub.com/content/29/2/169)
+    - Sam will present the following paper: Dawson, N., Morris, B. J., & Pratt, J. A. (2015). Functional brain connectivity phenotypes for schizophrenia drug discovery. Journal of Psychopharmacology, 29(2), 169–177. [doi:10.1177/0269881114563635](http://jop.sagepub.com/content/29/2/169.full)
 - February 19, 2015  
 - March 5, 2015  
 - March 19, 2015  
