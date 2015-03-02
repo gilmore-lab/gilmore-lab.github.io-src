@@ -19,14 +19,14 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ### Amanda Thomas, Graduate Student
 ### William Adamiak, Undergraduate Student
-#Experience
+##Experience
 William is in his final semester at Penn State and has been an undergraduate researcher in Gilmore Lab for four semesters. He is a Biology major, with a focus in neuroscience, and a Psychology minor.
-#Projects
+##Projects
 William is currently working on his senior honors thesis project, *Sensitivity to Optic Flow Varies by Pattern and Speed*. The project entails measuring how well participants are able to detect global motion across different optic flow patterns, coherence levels, and speeds. The abstract for the project has been accepted for presentation at the 2015 Vision Science Society Annual Conference.
-#Future Goals
+##Future Goals
 After graduation, William plans to spend a month backpacking across Peru. Upon his return, he plans to spend a year doing research as a part of NIH's Postbac IRTA Program. After that, he will be applying to either medical school or a neuroscience
 graduate program.
-#Interests
+##Interests
 William's interests include music, guitar, hiking, golf, SCUBA diving, skiing, and soccer.
 ### Jun Oh, Undergraduate Student
 ### Michael O'Neill, Undergraduate Student
