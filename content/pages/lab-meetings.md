@@ -23,8 +23,9 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
     + Sam, Jun, Michael, William, Shivani, Andrea, Rick
     - Sam will present the following paper: Dawson, N., Morris, B. J., & Pratt, J. A. (2015). Functional brain connectivity phenotypes for schizophrenia drug discovery. Journal of Psychopharmacology, 29(2), 169–177. [doi:10.1177/0269881114563635](http://jop.sagepub.com/content/29/2/169.full)
     - **Rick will be out next week**
-- February 19, 2015  
-- March 5, 2015  
+- February 19, 2015 - No Meeting this Week
+- February 26, 2015
+- March 5, 2015 - No Meeting this Week
 - March 19, 2015  
 - March 26, 2015  
 - April 2, 2015  
