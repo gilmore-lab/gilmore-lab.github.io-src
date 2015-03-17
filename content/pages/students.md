@@ -29,6 +29,7 @@ graduate program.
 ####Interests
 William's interests include music, guitar, hiking, golf, SCUBA diving, skiing, and soccer.
 ### Jun Oh, Undergraduate Student
+Jun is a junior majoring in biology with emphasis in neuroscience and minoring in psychology. He's been in Dr. Gilmore's lab for two semesters. After graduating from Penn State, Jun plans to continue research in neuroimanging and apply to medical schools. 
 ### Michael O'Neill, Undergraduate Student
 Michael grew up in State College, PA and graduated from State College Area High School in May 2013. He is currently enrolled at Penn State University, double majoring in Psychology and Communication: Arts and Sciences as an undergrad. He plans to graduate in 2017.
 
