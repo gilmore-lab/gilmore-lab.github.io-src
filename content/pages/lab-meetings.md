@@ -31,8 +31,8 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 - April 2, 2015  
 - April 9, 2015  
 - April 16, 2015  
-- April 23, 2015  
-- April 30, 2015
+- April 23, 2015 - End of semester celebration at The Waffle Shop 
+- April 30, 2015 - No Meeting!
 
 
 
