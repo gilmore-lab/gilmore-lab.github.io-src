@@ -1,3 +1,5 @@
+Title: participants
+
 # Research Participant Information
 
 ## MRI Studies

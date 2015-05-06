@@ -15,9 +15,13 @@ Visual motion provides humans and animals with information about their own movem
 infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NECO\_a\_00645](http://dx.doi.org/10.1162/NECO\_a\_00645).
 - Raudies, F., Gilmore, R.O., Kretch, K.S., Franchak, J.M, & Adolph, K.E. (2012). Understanding the development of motion processing by characterizing optic flow experienced by infants and their mothers. *Proceedings of the IEEE International Conference on Development and Learning*. [doi:10.1109/DevLrn.2012.6400584](http://dx.doi.org/10.1109/DevLrn.2012.6400584).
 
+** Presentations **
+
+Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
+
 ** Collaborator **
 
-- Florian Raudies, Hewlett-Packard
+- Florian Raudies, Hewlett-Packard Research
 
 ** Support **
 
@@ -28,6 +32,10 @@ This project is supported by the National Science Foundation under grant [BCS-11
 ![Symmetric image]({filename}/images/symmetry-sample-1.png) ![Symmetric image]({filename}/images/symmetry-sample-2.png)
 
 The ability to sense regular or near-regular patterns serves critical biological needs and is equally important for computer vision and machine intelligence. Despite wide variation in the types of regularity present in natural images, research on human and computer processing of pattern regularity has focused primarily on detecting bilateral reflection symmetry, using largely atheoretical approaches. The goals of this interdisciplinary research are to i) use principles of group theory to develop a conceptual framework for understanding regularity perception and brain activation in humans, and ii) to design general computer-based symmetry detection algorithms that can operate at a level of practical usability.
+
+** Presentations **
+
+Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
 
 ** Collaborators **
 
@@ -52,7 +60,11 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 ** Publications **
 
-- Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
+Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
+
+** Presentations **
+
+Gilmore, R.O., Adolph, K.E. Millman, D.S., Steiger, L., & Simon, D.A. (2015, May). Sharing displays and data from vision science research with Databrary. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/gilmore-etal-vss-2015.pdf).
 
 ** Collaborators **
 
