@@ -10,6 +10,7 @@ Visual motion provides humans and animals with information about their own movem
 
 ** Publications **
 
+- Gilmore, R.O., Raudies, F., & Jayaraman, S. (in press). What Accounts for Developmental Shifts in Optic Flow Sensitivity? *Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics*. Databrary materials at [doi:10.17910/B7988V](http://dx.doi.org/10.17910/B7988V).
 - Fesi, J.F., Thomas, A.L., & Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. *Vision Research*, 100, 56–71. [doi:10.1016/j.visres.2014.04.004](http://dx.doi.org/10.1016/j.visres.2014.04.004). [Materials on Databrary](https://databrary.org/volume/49).
 - Raudies, F. & Gilmore, R.O. (2014). Visual motion priors differ for
 infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NECO\_a\_00645](http://dx.doi.org/10.1162/NECO\_a\_00645).
@@ -19,9 +20,10 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
 
-** Collaborator **
+** Collaborators **
 
 - Florian Raudies, Hewlett-Packard Research
+- Swapnaa Jayaraman, Indiana University
 
 ** Support **
 
