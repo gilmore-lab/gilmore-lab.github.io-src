@@ -2,13 +2,40 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Spring 2015 Semester, our meeting will be at 8:15am on Thursdays in the lab conference room. 
+For the Fall 2015 Semester, our meeting will be at 8:00 am on Tuesdays in the lab conference room, 459 Moore. 
 
 ## Lab Journal Club
 
 Twice a month at Lab Meetings we will discuss a paper related to research in the lab or of interest to the student who is presenting the paper. Please read the article and be prepared to discuss it.
 
 ## Lab Meeting Minutes
+
+- September 1, 2015
+    + Andrea will investigate (ask Elaine) moving meeting to 444 Moore.
+    + Introductions
+        * Andrea Seisler, Lab Manager
+        * Sam Pai, 3 credits 494
+        * Daved Fouad
+        * Raya Willoughby, 2 credits 494
+        * Shivani Patel
+        * Jun Oh
+        * Michael O'Neill
+    + Highlights of active projects
+        * Optic Flow
+            - Infant motion coherence (MOCO) EEG
+            - Child motion form (MOFO) EEG
+            - Child motion form (MOCO) behavior
+            - Infant motion statistics
+        * Symmetry
+            - Adults' sorting behavior
+        * Databrary
+    + Action items
+        * Clery Act training (Andrea will send link).
+        * Get added to psubrainlab Google calendar (send Andrea your email).
+        * Register for PSYCH 494 credit.
+        * Watch epilepsy video in lab.
+
+### Spring 2015
 
 - [January 22, 2015](https://github.com/gilmore-lab/mtg-minutes/blob/master/2015-01-22.md)  
 - January 29, 2015
