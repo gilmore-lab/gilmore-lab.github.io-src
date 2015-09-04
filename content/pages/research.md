@@ -18,7 +18,14 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 ** Presentations **
 
+Gilmore, R.O. (2016, September). Open Science Practices Have Made My Work Better. Talk at the Penn State Psychology Cognitive Area brown bag. [HTML slides](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html#1).
+
 Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
+
+** Materials **
+
+- <http://databrary.org/volume/73>
+- <http://dx.doi.org/10.17910/B7988V>
 
 ** Collaborators **
 
@@ -62,6 +69,8 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 ** Publications **
 
+Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (in press). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
+
 Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
 
 ** Presentations **
@@ -89,4 +98,9 @@ A 5-year-old overhears her parents arguing loudly in the next room. She may not 
 
 ** Support **
 
-This project has received support from the Penn State [Social Sciences Research Institute](http://ssri.psu.edu).
+This project has received support from the Penn State [Social Sciences Research Institute](http://ssri.psu.edu) and the National Institute of Mental Health.
+
+** Materials **
+
+- [PEEP II repo @GitHub](https://github.com/gilmore-lab/peep-II).
+- [PEEP I repo @GithHub](https://github.com/gilmore-lab/PEEP-I).

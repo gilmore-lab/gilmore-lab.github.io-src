@@ -136,6 +136,12 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2015, June). Workshop on Data-intensive Research in Education, National Science Foundation, Arlington, VA.
+
+Gilmore, R.O. (2015, April). Workshop on using and sharing video, American Educational Research Association, Chicago, IL.
+
+Gilmore, R.O. (2015, February). Sharing identifiable research data with Databrary, Penn State Child Study Center.
+
 Gilmore, R.O. (2014, November). Northwestern University.
 
 Gilmore, R.O. (2014, October). Data on the Mind Workshop. University of California -- Berkeley. [Materials on Databrary](https://nyu.databrary.org/volume/66)
