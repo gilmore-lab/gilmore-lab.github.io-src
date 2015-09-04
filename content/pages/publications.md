@@ -96,7 +96,7 @@ response task. *Journal of Experimental Child Psychology,* *59*,
 
 ## Book chapters and technical reports
 
-Gilmore, R.O. & Fesi, J.D. (2009). Infant Perception: Methods of Testing. In B. Goldstein (Ed.), *Encyclopedia of Perception*, Sage Publishing.
+Gilmore, R.O. & Fesi, J.D. (2009). Infant Perception: Methods of Testing. In B. Goldstein (Ed.), *Encyclopedia of Perception*, Sage Publishing. [doi:10.4135/9781412972000](http://dx.doi.org/10.4135/9781412972000).
 
 Gilmore, R.O., Weinstein, J. & Von Der Heide, R. (2008). The Development and Neuropsychology of Visual Impairment. In A.M. Walker, D.M. Kaufman, G.E. Solomon, and C. Pfeffer (Eds.), *Child and Adolescent Neurology for Psychiatrists*. Baltimore: Lippincott Williams & Wilkins. 323-347.
 
