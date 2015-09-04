@@ -88,19 +88,20 @@ This project is supported by the U.S. National Science Foundation (NSF) Grant No
 
 ## The Proximal Emotional Environment Project (PEEP)
 
-A 5-year-old overhears her parents arguing loudly in the next room. She may not understand why they are arguing, but she realizes something is wrong because she perceives anger in their voices. Exposure to interpersonal conflict is consistently associated with less skillful emotion regulation in children although the mechanisms remain to be explained. Because inter- personal conflict is a heterogeneous phenomenon, investigation of the specific features of conflict that contribute to developmental pathways to emotional dysfunction and symptoms requires a process-oriented approach. In this project, we focus on brain responses to angry prosody in natural speech. We are studying young children’s neural processing of angry prosody, spoken by mothers and strangers, as a first step toward a future longitudinal study investigating how the neurocognitive processing of angry prosody mediates relations between conflict exposure in children and the development of anxiety- and anger-related symptoms.
+A 5-year-old overhears her parents arguing loudly in the next room. She may not understand why they are arguing, but she realizes something is wrong because she perceives anger in their voices. Exposure to interpersonal conflict is consistently associated with less skillful emotion regulation in children although the mechanisms remain to be explained. Because inter-personal conflict is a heterogeneous phenomenon, investigation of the specific features of conflict that contribute to developmental pathways to emotional dysfunction and symptoms requires a process-oriented approach. In this project, we focus on brain responses to angry prosody in natural speech. We are studying young children’s neural processing of angry prosody, spoken by mothers and strangers, as a first step toward a future longitudinal study investigating how the neurocognitive processing of angry prosody mediates relations between conflict exposure in children and the development of anxiety- and anger-related symptoms.
 
 ** Collaborators **
 
 - Pamela Cole, Penn State
 - Koraly Perez-Edgar, Penn State
 - Suzy Scherf, Penn State
+- Michelle Vigeant, Penn State
 
 ** Support **
 
-This project has received support from the Penn State [Social Sciences Research Institute](http://ssri.psu.edu) and the National Institute of Mental Health.
+This project has received support from the Penn State [Social Sciences Research Institute](http://ssri.psu.edu) and the National Institute of Mental Health under [R21-MH-104547](http://projectreporter.nih.gov/project_info_description.cfm?aid=8891792&icde=26075719&ddparam=&ddvalue=&ddsub=&cr=2&csb=default&cs=ASC).
 
 ** Materials **
 
 - [PEEP II repo @GitHub](https://github.com/gilmore-lab/peep-II).
-- [PEEP I repo @GithHub](https://github.com/gilmore-lab/PEEP-I).
+- [PEEP I repo @GitHub](https://github.com/gilmore-lab/PEEP-I).

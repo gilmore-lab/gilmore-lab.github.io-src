@@ -136,6 +136,8 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2015, September). Managing Your Brand. Penn State AXONS graduate student group. [HTML](http://cdn.rawgit.com/psu-psychology/scan/master/axons-2015-09-04-gilmore/gilmore.html)
+
 Gilmore, R.O. (2015, June). Workshop on Data-intensive Research in Education, National Science Foundation, Arlington, VA.
 
 Gilmore, R.O. (2015, April). Workshop on using and sharing video, American Educational Research Association, Chicago, IL.
