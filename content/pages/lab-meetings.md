@@ -10,6 +10,19 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- September 8, 2015
+    + New meeting location in 444 Moore
+        * Must leave by 8:50a.
+    + Attending
+        * Daved, Raya, Michelle, Rick, Michael, Sam, Shivani, Andrea
+    + Agenda
+        * Schedules
+        * Training
+        * Lab mtg presentations
+    + Action items
+        * Bios by next meeting, email to Andrea. Andrea has tutorial.
+        * **No lab meeting next week, Tuesday 9/15**
+        * Michelle will present on 9/22. Jun on 10/6. Shivani 11/10. Sam 10/20.
 - September 1, 2015
     + Andrea will investigate (ask Elaine) moving meeting to 444 Moore.
     + Introductions
