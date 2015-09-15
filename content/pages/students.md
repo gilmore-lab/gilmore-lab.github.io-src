@@ -19,6 +19,10 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ### Amanda Thomas, Graduate Student
 
+### Michael Dexheimer, Undergraduate Student
+
+### Daved Faoud, Undergraduate Student
+
 ### Jun Oh, Undergraduate Student
 Jun is a junior majoring in biology with emphasis in neuroscience and minoring in psychology. He's been in Dr. Gilmore's lab for two semesters. After graduating from Penn State, Jun plans to continue research in neuroimanging and apply to medical schools.
 
@@ -36,6 +40,11 @@ After graduating, he wants to study radiology (possibly neuroradiology) in medic
 ### Shivani Patel, Undergraduate Student
 
 Shivani Patel is an undergraduate student majoring in Biological Genetics and minoring in Psychology at Pennsylvania State University. She plans to attend medical school after graduation and become a pediatrician. For the summer of 2015, she plans to attend a medical ashram in India where she will explore different fields in medicine, while volunteering at blood and eye banks. 
+
+<h3>​Michelle Shade, Undergraduate Student</h3>
+<p>​Michelle Shade is a​​ Junior ​majoring in Comparative Literature and Sociology, minoring in Psychology with a focus on ​neurocognitive research.​ She intends to continue research in grad school and beyond.​</p>
+
+### Raya Willoughby, Undergraduate Student
 
 ## Recent Alumni
 - William Adamiak, NIH IRTA
