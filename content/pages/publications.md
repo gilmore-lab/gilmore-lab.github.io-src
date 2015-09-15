@@ -136,6 +136,10 @@ London: U.K. MRC Cognitive Development Unit.
 
 # Invited Talks
 
+Gilmore, R.O. (2015, September). Experience matters: Measuring the microstructure of visual experience to better understand perceptual development. PSU Developmental Area Proseminar. [HTML](https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html). [Markdown](https://github.com/psu-psychology/developmental/blob/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.Rmd).
+
+Gilmore, R.O. (2015, September). Open science practices have made my research better. PSU Cognitive Psychology Area Brown Bag. [HTML](https://rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html). [Markdown](https://github.com/psu-psychology/cognitive/blob/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.Rmd).
+
 Gilmore, R.O. (2015, September). Managing Your Brand. Penn State AXONS graduate student group. [HTML](http://cdn.rawgit.com/psu-psychology/scan/master/axons-2015-09-04-gilmore/gilmore.html)
 
 Gilmore, R.O. (2015, June). Workshop on Data-intensive Research in Education, National Science Foundation, Arlington, VA.
