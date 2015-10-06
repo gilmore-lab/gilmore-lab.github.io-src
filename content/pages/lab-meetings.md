@@ -10,6 +10,27 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2015-10-13
+    + Agenda
+        * Discuss Wattam-Bell, J., Birtles, D., Nyström, P., von Hofsten, C., Rosander, K., Anker, S., … Braddick, O. (2010). Reorganization of Global Form and Motion Processing during Human Visual Development. Current Biology, 20(5), 411–415. <http://doi.org/10.1016/j.cub.2009.12.020>
+        * Discuss Braddick, O., Atkinson, J., & Wattam-Bell, J. (2011). Chapter 6 - VERP and brain imaging for identifying levels of visual dorsal and ventral stream function in typical and preterm infants. In J. A. and G. M. I. Oliver Braddick (Ed.), *Progress in Brain Research* (Vol. 189, pp. 95–111). Elsevier. <http://dx.doi.org/10.1016/B978-0-444-53884-0.00020-8>
+- 2015-10-06
+    + Agenda
+        * Jun leading discussion of Czerniak, S. M., Sikoglu, E. M., Navarro, A. A. L., McCafferty, J., Eisenstock, J., Stevenson, J. H., ... & Moore, C. M. (2014). A resting state functional magnetic resonance imaging study of concussion in collegiate athletes. *Brain imaging and behavior*, *9*(2), 323-332. <http://dx.doi.org/10.1007/s11682-014-9312-1>
+    + Attending
+        * Daved, Michelle, Rick, Jun, Shivani, Michael, Sam
+- 2015-09-29
+    + Attending
+        * Michelle, Daved, Raya, Andrea, Jun
+    + Agenda
+        * Rick [presenting](https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html)
+- September 22, 2015
+    + Attending
+        * Michelle, Raya, Rick, Daved, Sam, Andrea, Jun, Shivani
+    + Agenda
+        * Michelle's presentation
+        * Training status
+        * Discuss paper next week, Wattam-Bell et al. (2010). <http://dx.doi.org/10.1016/j.cub.2009.12.020>
 - September 8, 2015
     + New meeting location in 444 Moore
         * Must leave by 8:50a.
