@@ -69,7 +69,9 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 ** Publications **
 
-Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (in press). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
+Gilmore, R.O. (in press). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*.
+
+Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
 
 Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
 

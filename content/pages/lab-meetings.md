@@ -18,7 +18,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
     + Agenda
         * Shivani leading discussion of Bourke, P., & Shaw, H. (2014). Spontaneous lucid dreaming frequency and waking insight. *Dreaming*, 24(2), 152–159. <http://doi.org/10.1037/a0036908>.
     + Attending
-        * Rick, Raya, Andrea, Jun, Shivani, Michelle, Michael
+        * Rick, Raya, Andrea, Jun, Shivani, Michelle, Michael, Daved
 - 2015-10-20
     + Agenda
         * Sam leads discussion of De Araujo, T. B., Silveira, F. R., Souza, D. L. S., Strey, Y. T. M., Flores, C. D., & Webster, R. S. (n.d.). Impact of video game genre on surgical skills development: a feasibility study. *Journal of Surgical Research*. <http://doi.org/10.1016/j.jss.2015.07.035>.
