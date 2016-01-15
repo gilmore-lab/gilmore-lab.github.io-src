@@ -2,7 +2,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2015 Semester, our meeting will be at 8:00 am on Tuesdays in the lab conference room, 459 Moore. 
+For the Spring 2016 Semester, our meeting will be at 8:15 am on Tuesdays in room 350 Moore. 
 
 ## Lab Journal Club
 
@@ -10,6 +10,27 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- January 19, 2015
+	+ Attending
+		*
+	+ Agenda
+		* Need .md bios from some lab members
+	+ Small Group Meeting Schedule
+		* Child (MOCO) behavior - meetings 12:45-1:45 Thursdays
+		* Video Coding - Meetings 10-11am Fridays or 11:15-12:15 Fridays 
+		* Infant motion coherence (MOCO) EEG - Everyone will participate in data collection sessions.  
+		
+		
+- January 12, 2015
+	+ Attending
+		* Daved, Michelle, Michael O., Michael D., Jun, Sam, Shivani, Andrea
+	+ Agenda
+		* Create Schedules for project meetings
+		* Psych 494 forms gathered - have Rick sign and return forms
+		* Set up initial small group meetings
+		
+
+### Fall 2015
 - September 8, 2015
     + New meeting location in 444 Moore
         * Must leave by 8:50a.
