@@ -10,6 +10,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+
 - January 19, 2015
 	+ Attending
 		* Rick
@@ -31,6 +32,42 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 		
 
 ### Fall 2015
+
+- 2015-11-17
+    + Agenda
+        * Discuss Wattam-Bell, J., Birtles, D., Nyström, P., von Hofsten, C., Rosander, K., Anker, S., … Braddick, O. (2010). Reorganization of Global Form and Motion Processing during Human Visual Development. *Current Biology*, 20(5), 411–415. <http://doi.org/10.1016/j.cub.2009.12.020>
+        * Discuss Braddick, O., Atkinson, J., & Wattam-Bell, J. (2011). Chapter 6 - VERP and brain imaging for identifying levels of visual dorsal and ventral stream function in typical and preterm infants. In J. A. and G. M. I. Oliver Braddick (Ed.), *Progress in Brain Research* (Vol. 189, pp. 95–111). Elsevier. <http://dx.doi.org/10.1016/B978-0-444-53884-0.00020-8>
+- 2015-11-10
+    + Agenda
+        * Shivani leading discussion of Bourke, P., & Shaw, H. (2014). Spontaneous lucid dreaming frequency and waking insight. *Dreaming*, 24(2), 152–159. <http://doi.org/10.1037/a0036908>.
+    + Attending
+        * Rick, Raya, Andrea, Jun, Shivani, Michelle, Michael, Daved
+- 2015-10-20
+    + Agenda
+        * Sam leads discussion of De Araujo, T. B., Silveira, F. R., Souza, D. L. S., Strey, Y. T. M., Flores, C. D., & Webster, R. S. (n.d.). Impact of video game genre on surgical skills development: a feasibility study. *Journal of Surgical Research*. <http://doi.org/10.1016/j.jss.2015.07.035>.
+- 2015-10-13
+    + Agenda
+        * Rick discussing [Gilmore-Thomas-Fesi-2015 results](https://github.com/gilmore-lab/gilmore-thomas-fesi-2015), [Stimuli on Databrary](https://databrary.org/volume/75).
+    + Attending
+        * Michelle, Raya, Jun, Michael, Shivani
+- 2015-10-06
+    + Agenda
+        * Jun leading discussion of Czerniak, S. M., Sikoglu, E. M., Navarro, A. A. L., McCafferty, J., Eisenstock, J., Stevenson, J. H., ... & Moore, C. M. (2014). A resting state functional magnetic resonance imaging study of concussion in collegiate athletes. *Brain imaging and behavior*, *9*(2), 323-332. <http://dx.doi.org/10.1007/s11682-014-9312-1>
+    + Attending
+        * Daved, Michelle, Rick, Jun, Shivani, Michael, Sam
+- 2015-09-29
+    + Attending
+        * Michelle, Daved, Raya, Andrea, Jun
+    + Agenda
+        * Rick [presenting](https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html)
+- September 22, 2015
+    + Attending
+        * Michelle, Raya, Rick, Daved, Sam, Andrea, Jun, Shivani
+    + Agenda
+        * Michelle's presentation
+        * Training status
+        * Discuss paper next week, Wattam-Bell et al. (2010). <http://dx.doi.org/10.1016/j.cub.2009.12.020>
+>>>>>>> 74568f079f7d3b0ec7e8b8c24ed7b953c7abf6f6
 - September 8, 2015
     + New meeting location in 444 Moore
         * Must leave by 8:50a.

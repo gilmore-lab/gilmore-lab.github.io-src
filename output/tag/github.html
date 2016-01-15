@@ -64,8 +64,8 @@
 
     <div class='article'>
         <div class="content-title">
-            <a href="../lab-workflow.html"><h1>Lab workflow</h1></a>
-Tue 27 January 2015
+            <a href="../reproducible-workflows.html"><h1>Reproducible workflows</h1></a>
+Tue 15 September 2015
 
 by <a class="url fn" href="../author/rick-gilmore.html">Rick Gilmore</a>
  
@@ -74,19 +74,44 @@ by <a class="url fn" href="../author/rick-gilmore.html">Rick Gilmore</a>
  
         </div>
         
-        <div><p>We've now settled on a workflow for the site:</p>
-<ol>
-<li>We edit files in a separate <a href="https://github.com/gilmore-lab/gilmore-lab.github.io-src">repo</a>.</li>
-<li>We build the site using <a href="http://docs.getpelican.com/en/latest/">Pelican</a>, and test and view it using a local web server.</li>
-<li>We commit the *-src edits and push them to GitHub.</li>
-<li>We copy the Pelican output to the local folder for the lab repo, commit and push it to the <a href="https:github.com/gilmore-lab/gilmore-lab.github.io">GitHub repo</a> using <a href="https://github.com/gilmore-lab/gilmore-lab.github.io-src/blob/master/update_github.sh">this</a> shell script.</li>
-</ol>
-<p>We think this will give us the control we need, plus it will allow our students to make new pages by writing in Markdown.</p></div>
+        <div><p>I've adopted <a href="http://www.rstudio.com">RStudio's</a> RMarkdown format to create reproducible workflows, reports, and talks. Class lectures are also a breeze now that I've figured out how to easily embed videos using the HTML5 <code>&lt;video&gt;</code> tag.</p>
+<div class="centered">
+<video controls height=500px>
+  <source src="https://databrary.org/slot/6493/-/asset/11635/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
+<p>This is a video from <a href="https://nyu.databrary.org/volume/75?key=slot">Databrary</a> showing one of the optic flow displays we used in the Gilmore, Thomas, and Fesi (submitted) paper whose analysis and figures are reported <a href="https://github.com/gilmore-lab/gilmore-thomas-fesi-2015">here</a>.</p>
+<p>For the time being, I'm producing all of my talks and analyses using this workflow. Of course, we're using GitHub for version control. A course on these ideas based on <a href="https://www.crcpress.com/Reproducible-Research-with-R-and-R-Studio/Gandrud/9781466572843">Gandrud's book</a> is on my radar. </p></div>
         <hr />
         <!- Added myself 2014-09-04-16:13 ->
 
     </div>
 		
+
+ 
+        
+
+ 
+
+    <div class='article'>
+        <a href="../lab-workflow.html"><h2>Lab workflow</h2></a>
+        <div class= "well small"> Tue 27 January 2015
+
+by <a class="url fn" href="../author/rick-gilmore.html">Rick Gilmore</a>
+ 
+
+
+ </div>
+        <div class="summary"><p>We've now settled on a workflow for the site:</p>
+<ol>
+<li>We edit files in a separate <a href="https://github.com/gilmore-lab/gilmore-lab.github.io-src">repo</a>.</li>
+<li>We build the site using <a href="http://docs.getpelican.com/en/latest/">Pelican</a>, and test and view it using a local web server.</li>
+<li>We commit the *-src edits and push them to GitHub.</li>
+<li>We copy the Pelican output to the ...</li></ol> <a class="btn btn-info xsmall" href="../lab-workflow.html">read more</a></div>
+    </div>	
+				
 
  
         
