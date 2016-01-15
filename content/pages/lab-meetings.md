@@ -12,7 +12,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 - January 19, 2015
 	+ Attending
-		*
+		* Rick
 	+ Agenda
 		* Need .md bios from some lab members
 	+ Small Group Meeting Schedule
