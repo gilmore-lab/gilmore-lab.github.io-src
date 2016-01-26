@@ -2,7 +2,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Spring 2016 Semester, our meeting will be at 8:15 am on Tuesdays in room 350 Moore. 
+For the Spring 2016 Semester, our meeting will be at 8:15 am on Tuesdays in room 350 Moore.
 
 ## Lab Journal Club
 
@@ -10,26 +10,59 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
-
-- January 19, 2015
+- 2016-01-26
 	+ Attending
-		* Rick
+	+ Agenda
+		- MOCO/MOFO EEG
+			- Weekly Monday 11:30-1; add to schedule
+		- MOCO psychophysics child
+			- Add project meeting to calendar (Andrea)
+		- Symmetry sorting (Michelle)
+		- Video data coding
+			- Do reliability coding
+			- Coders should review this site: <http://dx.doi.org/10.17910/B7988V>
+- 2016-01-19
 	+ Agenda
 		* Need .md bios from some lab members
 	+ Small Group Meeting Schedule
 		* Child (MOCO) behavior - meetings 12:45-1:45 Thursdays
-		* Video Coding - Meetings 10-11am Fridays or 11:15-12:15 Fridays 
-		* Infant motion coherence (MOCO) EEG - Everyone will participate in data collection sessions.  
-		
-		
-- January 12, 2015
+		* Video Coding - Meetings 10-11am Fridays or 11:15-12:15 Fridays
+		* Infant motion coherence (MOCO) EEG - Everyone will participate in data collection sessions.
+	+ Journals with articles potentially relevant to lab interests
+		- [Nature](http://www.nature.com/neuro/index.html)
+	    	- <http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4214.html>
+	    	- <http://www.nature.com/neuro/journal/v19/n1/full/nn.4179.html>
+				- <http://www.nature.com/nrn/index.html>
+	  - [Nature Reviews Neuroscience](http://www.nature.com/nrn/journal/vaop/ncurrent/abs/nrn.2015.19.html)
+			- <http://www.nature.com/nrn/journal/v17/n1/abs/nrn.2015.2.html>
+		- [Journal of Neuroscience](http://www.jneurosci.org)
+	    	- <http://www.jneurosci.org/content/36/2.toc.pdf>, p. 268, p. 432
+		- [Neuron](http://www.cell.com/neuron/home)
+	    	- <http://www.cell.com/neuron/abstract/S0896-6273(15)01120-4>
+	     <http://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(15)00274-0>
+		- [Trends in Neurosciences](http://www.cell.com/trends/neurosciences/home)
+			- <http://www.cell.com/trends/neurosciences/abstract/S0166-2236(15)00281-7>
+			- <http://www.cell.com/trends/neurosciences/abstract/S0166-2236(15)00248-9>
+			- <http://www.cell.com/trends/neurosciences/abstract/S0166-2236(08)00265-8>
+		- [Journal of Vision](http://jov.arvojournals.org/issues.aspx#issueid=934263)
+			- <http://jov.arvojournals.org/article.aspx?articleid=2411821>
+			- <http://jov.arvojournals.org/article.aspx?articleid=2436830>
+		- [Vision Research](http://www.journals.elsevier.com/vision-research/)
+			- <http://www.sciencedirect.com/science/article/pii/S0042698915003430>
+			- <http://www.sciencedirect.com/science/article/pii/S004269891500334X>
+		- [Trends in Cognitive Science](http://www.cell.com/trends/cognitive-sciences/home)
+		- [Developmental Science](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-7687)
+		- [Infancy](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1532-7078)
+		- [Developmental Cognitive Neuroscience](http://www.journals.elsevier.com/developmental-cognitive-neuroscience/)
+		- [Developmental Psychology](http://psycnet.apa.org/index.cfm?fa=browsePA.volumes&jcode=dev)
+		- [Child Development](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8624)  	
+- 2016-01-12
 	+ Attending
 		* Daved, Michelle, Michael O., Michael D., Jun, Sam, Shivani, Andrea
 	+ Agenda
 		* Create Schedules for project meetings
 		* Psych 494 forms gathered - have Rick sign and return forms
 		* Set up initial small group meetings
-		
 
 ### Fall 2015
 
@@ -115,7 +148,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
     - Discussed using Markdown for student bios. [Markdown Help](https://help.github.com/articles/markdown-basics/).
     - Discussed [logo contest](https://app.asana.com/0/24984362312919/24984362312933).
 - February 5, 2015
-    - Jun, Michael, Shivani, Andrea, Rick 
+    - Jun, Michael, Shivani, Andrea, Rick
     - Discussed bios on GitHub, child abuse reporting training, lab photo scheduling, epilepsy video.
 - February 12, 2015
     + Sam, Jun, Michael, William, Shivani, Andrea, Rick
@@ -129,10 +162,5 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 - April 2, 2015  
 - April 9, 2015  
 - April 16, 2015  
-- April 23, 2015 - End of semester celebration at The Waffle Shop 
+- April 23, 2015 - End of semester celebration at The Waffle Shop
 - April 30, 2015 - No Meeting!
-
-
-
-
-

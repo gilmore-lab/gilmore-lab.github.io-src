@@ -3,10 +3,10 @@ Title: students
 # For Students
 
 The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2015**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
-    
+
 ## Current Staff
 ### [Andrea Seisler](mailto:ars17psu@gmail.com), Lab Manager
-Andrea R. Seisler is the Laboratory Manager of the Brain Development Laboratory directed by Dr. Rick O. Gilmore. She received her bachelor's and master's degree in Biomedical Engineering from [The Catholic University of America](http://www.cua.edu/). During her graduate studies, she was a recipient of the [Clare Booth Luce Fellowship](http://www.hluce.org/cblprogram.aspx) award. 
+Andrea R. Seisler is the Laboratory Manager of the Brain Development Laboratory directed by Dr. Rick O. Gilmore. She received her bachelor's and master's degree in Biomedical Engineering from [The Catholic University of America](http://www.cua.edu/). During her graduate studies, she was a recipient of the [Clare Booth Luce Fellowship](http://www.hluce.org/cblprogram.aspx) award.
 
 She completed MRI based neuroscience and orthopedics research while working at [The National Institutes of Health](http://www.nih.gov/) from 2001-2007. After her move to State College, she served as an IRB Compliance Coordinator for the [Office for Research Protections](http://www.research.psu.edu/orp/humans) Penn State and then moved on to manage the Human Electrophysiology Facility located at the [Social, Life, and Enginineering Sciences Imaging Center](http://www.imaging.psu.edu/) through 2014.
 
@@ -17,11 +17,11 @@ The Pennsylvania State University<br/>
 University Park, PA 16802<br/>
 ars17 AT-SIGN psu DOT edu</p>
 
-### Amanda Thomas, Graduate Student
-
 ### Michael Dexheimer, Undergraduate Student
 
 ### Daved Faoud, Undergraduate Student
+
+### Carina Grullon-Perez, Undergraduate Student
 
 ### Jun Oh, Undergraduate Student
 Jun is a junior majoring in biology with emphasis in neuroscience and minoring in psychology. He's been in Dr. Gilmore's lab for two semesters. After graduating from Penn State, Jun plans to continue research in neuroimanging and apply to medical schools.
@@ -35,18 +35,21 @@ Michael is interested in building his skills in a lab setting, and using said sk
 
 Sam Pai is a Junior who majors in biochemisty and molecular biology (BMB) and minors in psychology. This is his fourth semester in Dr. Gilmore's lab.
 
-After graduating, he wants to study radiology (possibly neuroradiology) in medical school. 
+After graduating, he wants to study radiology (possibly neuroradiology) in medical school.
 
 ### Shivani Patel, Undergraduate Student
 
-Shivani Patel is an undergraduate student majoring in Biological Genetics and minoring in Psychology at Pennsylvania State University. She plans to attend medical school after graduation and become a pediatrician. For the summer of 2015, she plans to attend a medical ashram in India where she will explore different fields in medicine, while volunteering at blood and eye banks. 
+Shivani Patel is an undergraduate student majoring in Biological Genetics and minoring in Psychology at Pennsylvania State University. She plans to attend medical school after graduation and become a pediatrician. For the summer of 2015, she plans to attend a medical ashram in India where she will explore different fields in medicine, while volunteering at blood and eye banks.
 
-<h3>​Michelle Shade, Undergraduate Student</h3>
-<p>​Michelle Shade is a​​ Junior ​majoring in Comparative Literature and Sociology, minoring in Psychology with a focus on ​neurocognitive research.​ She intends to continue research in grad school and beyond.​</p>
+### ​Michelle Shade, Undergraduate Student
+
+​Michelle Shade is a​​ Junior ​majoring in Comparative Literature and Sociology, minoring in Psychology with a focus on ​neurocognitive research.​ She intends to continue research in grad school and beyond.​
 
 ### Raya Willoughby, Undergraduate Student
 
 ## Recent Alumni
+
+- Amanda Thomas, Postdoctoral researcher, Swarthmore
 - William Adamiak, NIH IRTA
 - Shivam Vedak, Medical student
 - Dan Elbich, Graduate student, Penn State
