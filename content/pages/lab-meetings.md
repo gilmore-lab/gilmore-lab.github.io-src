@@ -10,6 +10,11 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2016-02-02
+	+ Agenda
+		- [Innovations in Scholarly Communications Survey](https://innoscholcomm.typeform.com/to/JEx5CP?source=6s2a9G)
+				- Assignment: Take survey; pick two tools you aren't familiar with and write a short paragraph about each of them.
+		- Recruiting team assessment
 - 2016-01-26
 	+ Attending
 	+ Agenda
@@ -33,7 +38,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 	    	- <http://www.nature.com/neuro/journal/vaop/ncurrent/full/nn.4214.html>
 	    	- <http://www.nature.com/neuro/journal/v19/n1/full/nn.4179.html>
 				- <http://www.nature.com/nrn/index.html>
-	  - [Nature Reviews Neuroscience](http://www.nature.com/nrn/journal/vaop/ncurrent/abs/nrn.2015.19.html)
+		- [Nature Reviews Neuroscience](http://www.nature.com/nrn/journal/vaop/ncurrent/abs/nrn.2015.19.html)
 			- <http://www.nature.com/nrn/journal/v17/n1/abs/nrn.2015.2.html>
 		- [Journal of Neuroscience](http://www.jneurosci.org)
 	    	- <http://www.jneurosci.org/content/36/2.toc.pdf>, p. 268, p. 432
