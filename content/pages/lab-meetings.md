@@ -105,7 +105,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
         * Michelle's presentation
         * Training status
         * Discuss paper next week, Wattam-Bell et al. (2010). <http://dx.doi.org/10.1016/j.cub.2009.12.020>
->>>>>>> 74568f079f7d3b0ec7e8b8c24ed7b953c7abf6f6
+
 - September 8, 2015
     + New meeting location in 444 Moore
         * Must leave by 8:50a.
