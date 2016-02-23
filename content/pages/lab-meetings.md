@@ -10,6 +10,11 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2016-02-23
+	- Discussion of Lee, D., & Seo, H. (2016). Neural Basis of Strategic Decision Making. Trends in Neurosciences, 39(1), 40–48. <http://doi.org/10.1016/j.tins.2015.11.002>. Daved, Michelle, and Michael O.
+	- Next week: finish symmetry sorting project update and MOFO data analysis update.
+- 2016-02-16
+	- Rick discussed recent progress on symmetry sorting experiment.
 - 2016-02-09
 	- Discussed
 		- Plot.ly
