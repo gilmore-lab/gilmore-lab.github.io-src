@@ -10,6 +10,16 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2016-02-09
+	- Discussed
+		- Plot.ly
+		- ReadCube
+		- ResearchGate.net
+	- For 2016-02-23
+		- Read and discuss: Lee, D., & Seo, H. (2016). Neural Basis of Strategic Decision Making. Trends in Neurosciences, 39(1), 40–48. <http://doi.org/10.1016/j.tins.2015.11.002>. Daved, Michelle, and Michael O.
+	- Future readings could be
+		- Raichle, M. E. (2009). A brief history of human brain mapping. Trends in Neurosciences, 32(2), 118–126. <http://doi.org/10.1016/j.tins.2008.11.001>
+		- Yang, J., Kanazawa, S., Yamaguchi, M. K., & Motoyoshi, I. (2015). Pre-constancy Vision in Infants. Current Biology, 25(24), 3209–3212. <http://doi.org/10.1016/j.cub.2015.10.053>
 - 2016-02-02
 	+ Agenda
 		- [Innovations in Scholarly Communications Survey](https://innoscholcomm.typeform.com/to/JEx5CP?source=6s2a9G)
