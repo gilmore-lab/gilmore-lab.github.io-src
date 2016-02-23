@@ -48,6 +48,9 @@ Shivani Patel is an undergraduate student majoring in Biological Genetics and mi
 ### Katie Torres, Undergraduate Student  
 
 ### Raya Willoughby, Undergraduate Student  
+Raya is a Psychology major with a concentration in Neuroscience and plans to graduate in 2018. Her long term plans include earning her PhD in Psychology and ultimately going into the field of research. She hopes to combine her love for the field with her love for working with kids by specializing in Autism research.
+
+Raya has been an internationally competitive figure skater for 15 years. She coaches figure skating and hockey private lessons and group lessons at [Pegula Ice Arena](http://www.gopsusports.com/pegula-ice-arena/) and she also [Penn State Figure Skating Team’s](http://onwardstate.com/2016/01/27/video-the-penn-state-figuring-skating-team-glides-to-success/) THON Chair.
 
 
 ## Recent Alumni
