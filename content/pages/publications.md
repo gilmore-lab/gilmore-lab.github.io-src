@@ -10,11 +10,11 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 Gilmore, R.O., Adolph, K.E., & Millman, D.S. (in press). Transforming education research through open video data sharing. *Advances in Engineering Education*.
 
-Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
+Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science, 7*(2), 112-126. [doi: 10.1002/wcs.1379](http://doi.org/10.1002/wcs.1379).
 
 Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
 
-Gilmore, R.O., Raudies, F., & Jayaraman, S. (in press). What Accounts for Developmental Shifts in Optic Flow Sensitivity? *Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics*. Databrary materials at [doi:10.17910/B7988V](http://dx.doi.org/10.17910/B7988V).
+Gilmore, R.O., Raudies, F., & Jayaraman, S. (2015). What Accounts for Developmental Shifts in Optic Flow Sensitivity? *Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics*. [doi:10.1109/DEVLRN.2015.7345450](http:/doi.org/10.1109/DEVLRN.2015.7345450). Materials on Databrary at [doi:10.17910/B7988V](http://dx.doi.org/10.17910/B7988V).
 
 Ely, A.L., Weinstein, J.M., Price, J.M., Gillon, J.T., Boltz, M.E., Mowery, S.F., Aminlari, A., Gilmore, R.O., & Cheung, A.Y., (2014). Degradation of swept parameter VEP responses by neutral density filters in amblyopic and
 normal subjects. *Investigative Ophthalmology and Visual Science*, *55*(13), 7248-7255. [doi:10.1167/iovs.14-15052](http://dx.doi.org/10.1167/iovs.14-15052).
