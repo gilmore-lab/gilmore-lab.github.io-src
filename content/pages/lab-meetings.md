@@ -10,6 +10,21 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2016-03-15
+	- Debrief about optic flow behavior pilot.
+		- 4 year-old. Tried new lighting bar. Camera light a distraction. Need to mask. Andrea, Katie, Corinna, Daved, Raya.
+		- Button pressing difficult. Need to try pointing. Revise explanatory language and review (ARS). Change battery halfway through. Rick would like to see video of protocol.
+	- Update about child MOFO analysis, and infant MOCO
+		- Fesi et al 2011 and 2014 papers for image descriptions.
+		- Rick and Andrea to meet at HEF to review.
+	- Recruiting update.
+		- Making calls MTWR.
+		- Are recruiters saving spreadsheet properly? Need to revise protocol and procedure for downloading and uploading spreadsheet. Will review protocol next week.
+	- Continued discussion of [symmetry sorting project](https://github.com/gilmore-lab/symmetry-sorting).
+	- Discuss next week.
+		- Update about **video coding project**.
+		- Assign paper for week following.
+
 - 2016-02-23
 	- Discussion of Lee, D., & Seo, H. (2016). Neural Basis of Strategic Decision Making. Trends in Neurosciences, 39(1), 40–48. <http://doi.org/10.1016/j.tins.2015.11.002>. Daved, Michelle, and Michael O.
 	- Next week: finish symmetry sorting project update and MOFO data analysis update.
