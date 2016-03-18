@@ -2,7 +2,7 @@ Title: students
 
 # For Students
 
-The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2015**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
+The Brain Development Lab, part of the [Psychology Department](http://psych.la.psu.edu) at Penn State, is looking for research assistants to study brain development in infants, children, and adolescents for **Fall 2016**. You can earn research project (PSY 494) credit or work study funds, and learn video, computer, and communication skills. Prior research experience and computer skills are a plus, but aren't required. We are especially interested in students who have morning availability, computer skills, or are interested in developing skills in advertising, marketing, or public relations. You may apply by completing an [application](https://docs.google.com/forms/d/1HgafpfTVPyMk_Wzf4b_ubzig_fs4lFGS6qh_y0sa0uE/viewform).
 
 ## Current Staff
 ### [Andrea Seisler](mailto:ars17psu@gmail.com), Lab Manager
@@ -23,8 +23,11 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ### Karina Grullon-Perez, Undergraduate Student
 
+### Auburn Lattanzio, Undergraduate Student
+Auburn is a Junior majoring in Mathematics and minoring in Psychology at Pennsylvania State University. She hopes to apply the skills she has learned as a Math major to research in Psychology after she graduates in May 2017.
+
 ### Jun Oh, Undergraduate Student
-Jun is a junior majoring in biology with emphasis in neuroscience and minoring in psychology. He's been in Dr. Gilmore's lab for two semesters. After graduating from Penn State, Jun plans to continue research in neuroimanging and apply to medical schools.
+Jun is a junior majoring in biology with emphasis in neuroscience and minoring in psychology. He's been in Dr. Gilmore's lab for two semesters. After graduating from Penn State, Jun plans to continue research in neuroimanging and apply to medical schools.  
 
 ### Michael O'Neill, Undergraduate Student
 Michael grew up in State College, PA and graduated from State College Area High School in May 2013. He is currently enrolled at Penn State University, double majoring in Psychology and Communication: Arts and Sciences as an undergrad. He plans to graduate in 2017.

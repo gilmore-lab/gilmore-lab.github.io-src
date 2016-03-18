@@ -14,12 +14,15 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 	- Debrief about optic flow behavior pilot.
 		- 4 year-old. Tried new lighting bar. Camera light a distraction. Need to mask. Andrea, Katie, Corinna, Daved, Raya.
 		- Button pressing difficult. Need to try pointing. Revise explanatory language and review (ARS). Change battery halfway through. Rick would like to see video of protocol.
+		  - Explanatory language for instructions[moco-3pat-psychophysics-participant-instructions](https://github.com/gilmore-lab/moco-3-pattern-psychophysics/blob/master/notes/moco-3pat-psychophysics-participant-instructions.md) updated on 2016-03-15 (ars)
 	- Update about child MOFO analysis, and infant MOCO
 		- Fesi et al 2011 and 2014 papers for image descriptions.
 		- Rick and Andrea to meet at HEF to review.
 	- Recruiting update.
 		- Making calls MTWR.
 		- Are recruiters saving spreadsheet properly? Need to revise protocol and procedure for downloading and uploading spreadsheet. Will review protocol next week.
+		   - Excel is set up to Autosave every 5 minutes
+		   - Updated protocol [Phone_Call_Scheduling_Procedure] (https://github.com/gilmore-lab/protocols/blob/master/Phone_Call_Scheduling_Procedure.md) on 2016-03-16 (ars)
 	- Continued discussion of [symmetry sorting project](https://github.com/gilmore-lab/symmetry-sorting).
 	- Discuss next week.
 		- Update about **video coding project**.
