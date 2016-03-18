@@ -49,10 +49,10 @@ Shivani Patel is an undergraduate student majoring in Biological Genetics and mi
 ​Michelle Shade is a​​ Junior ​majoring in Comparative Literature and Sociology, minoring in Psychology with a focus on ​neurocognitive research.​ She intends to continue research in grad school and beyond.​
 
 ### Katie Torres, Undergraduate Student  
-Katie Torres is a Junior majoring in Social Psychology in the [Penn State Social Psychology Department] (http://psych.la.psu.edu/graduate/program-areas/social), intending to graduate in spring of 2017. She intends to continue her education in grad school to be a Personality Analyst. 
 
-Katie has been a [Power Lifter] (http://sites.psu.edu/clubsports/clubs/powerlifting/) for two years and plans on getting certified in personal training. On her free time she enjoys doing yoga and meditating.  
+Katie Torres is a Junior majoring in Social Psychology in the [Penn State Social Psychology Department](http://psych.la.psu.edu/graduate/program-areas/social), intending to graduate in spring of 2017. She intends to continue her education in grad school to be a Personality Analyst. 
 
+Katie has been a [Power Lifter](http://sites.psu.edu/clubsports/clubs/powerlifting/) for two years and plans on getting certified in personal training. In her free time she enjoys doing yoga and meditating.  
 
 
 ### Raya Willoughby, Undergraduate Student  
