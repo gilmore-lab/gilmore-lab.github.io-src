@@ -10,6 +10,19 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2016-03-22
+	- Agenda
+		- Participants for AAC/DS project, email Emily Neumann, eeneumann3@gmail.com
+		- Video coding project update
+			- 8 to code; 5 complete. On moving/stationary pass.
+			- Reliability coding on every 5th episode/segment.
+			- Next step is pass on moving segments by locomotion type.
+		- Next optic flow behavior pilot is on Friday.
+		- Infant MOCO status
+			- One last night. almost 8 mos. Another Friday.
+		- Paper for next week? Michael and Jun will decide and post link to reference DOI.
+		- Tools of the trade: git and GitHub, Markdown, Databrary, R/RStudio, Datavyu, Asana, Zotero, Box.
+
 - 2016-03-15
 	- Debrief about optic flow behavior pilot.
 		- 4 year-old. Tried new lighting bar. Camera light a distraction. Need to mask. Andrea, Katie, Corinna, Daved, Raya.
