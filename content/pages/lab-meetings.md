@@ -10,6 +10,9 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2016-03-29
+	- Next meeting on 2016-04-12
+
 - 2016-03-22
 	- Agenda
 		- Participants for AAC/DS project, email Emily Neumann, eeneumann3@gmail.com
