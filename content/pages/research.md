@@ -10,7 +10,7 @@ Visual motion provides humans and animals with information about their own movem
 
 ** Publications **
 
-- Gilmore, R.O., Raudies, F., & Jayaraman, S. (in press). What Accounts for Developmental Shifts in Optic Flow Sensitivity? *Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics*. Databrary materials at [doi:10.17910/B7988V](http://dx.doi.org/10.17910/B7988V).
+- Gilmore, R.O., Raudies, F., & Jayaraman, S. (2015). What Accounts for Developmental Shifts in Optic Flow Sensitivity? *Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics*. [doi:10.1109/DEVLRN.2015.7345450](http:/doi.org/10.1109/DEVLRN.2015.7345450). Materials on Databrary at [doi:10.17910/B7988V](http://dx.doi.org/10.17910/B7988V).
 - Fesi, J.F., Thomas, A.L., & Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. *Vision Research*, 100, 56–71. [doi:10.1016/j.visres.2014.04.004](http://dx.doi.org/10.1016/j.visres.2014.04.004). [Materials on Databrary](https://databrary.org/volume/49).
 - Raudies, F. & Gilmore, R.O. (2014). Visual motion priors differ for
 infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NECO\_a\_00645](http://dx.doi.org/10.1162/NECO\_a\_00645).
@@ -18,9 +18,9 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 ** Presentations **
 
-Gilmore, R.O. (2016, September). Open Science Practices Have Made My Work Better. Talk at the Penn State Psychology Cognitive Area brown bag. [HTML slides](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html#1).
-
-Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
+- Jayaraman, S., Gilmore, R.O., & Raudies, F. (2016, May). Changes in early optic flow experiences across development and culture. Talk International Congress on Infant Studies (ICIS) in New Orleans, LA. [HTML slides](https://rawgit.com/gilmore-lab/ICIS-2016-New-Orleans/master/jayaraman-gilmore-raudies-ICIS-2016.html)
+- Gilmore, R.O. (2016, September). Open Science Practices Have Made My Work Better. Talk at the Penn State Psychology Cognitive Area brown bag. [HTML slides](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html#1).
+- Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
 
 ** Materials **
 
@@ -44,7 +44,7 @@ The ability to sense regular or near-regular patterns serves critical biological
 
 ** Presentations **
 
-Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
+- Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
 
 ** Collaborators **
 
@@ -69,17 +69,15 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 ** Publications **
 
-Gilmore, R.O., Adolph, K.E., & Millman, D.S. (in press). Transforming education research through open video data sharing. *Advances in Engineering Education*.
-
-Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
-
-Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
-
-Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
+- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (in press). Transforming education research through open video data sharing. *Advances in Engineering Education*.
+- Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
+- Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
+- Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
 
 ** Presentations **
 
-Gilmore, R.O., Adolph, K.E. Millman, D.S., Steiger, L., & Simon, D.A. (2015, May). Sharing displays and data from vision science research with Databrary. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/gilmore-etal-vss-2015.pdf).
+- Gilmore, R.O., Adolph, K.E., & Millman, D. (2016, May). Video doesn't lie: Reproducible workflows with Databrary. Talk given at the NYU Data Science Center [Symposium on Reproducibility](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/). [HTML slides](https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1)
+- Gilmore, R.O., Adolph, K.E., Millman, D.S., Steiger, L., & Simon, D.A. (2015, May). Sharing displays and data from vision science research with Databrary. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/gilmore-etal-vss-2015.pdf).
 
 ** Collaborators **
 
