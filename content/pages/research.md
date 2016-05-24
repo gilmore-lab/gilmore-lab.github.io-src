@@ -18,9 +18,17 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 ** Presentations **
 
-- Jayaraman, S., Gilmore, R.O., & Raudies, F. (2016, May). Changes in early optic flow experiences across development and culture. Talk International Congress on Infant Studies (ICIS) in New Orleans, LA. [HTML slides](https://rawgit.com/gilmore-lab/ICIS-2016-New-Orleans/master/jayaraman-gilmore-raudies-ICIS-2016.html)
-- Gilmore, R.O. (2016, September). Open Science Practices Have Made My Work Better. Talk at the Penn State Psychology Cognitive Area brown bag. [HTML slides](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html#1).
+- Jayaraman, S., Gilmore, R.O., & Raudies, F. (2016, May). Changes in early optic flow experiences across development and culture. Talk at the International Congress on Infant Studies (ICIS) in New Orleans, LA. [HTML slides](https://rawgit.com/gilmore-lab/ICIS-2016-New-Orleans/master/jayaraman-gilmore-raudies-ICIS-2016.html).
+- Gilmore, R.O. (2016, September). Open Science Practices Have Made My Work Better. Talk at the Penn State Psychology Cognitive Area brown bag. [HTML slides](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html).
 - Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
+- Raudies, F. & Gilmore, R.O. (2014, May). An analysis of optic flow experienced by infants during natural activities. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdf/raudies-etal-vss-2014.pdf)
+- Thomas, A.L., Fesi, J.D. & Gilmore, R.O. (2014, May). Temporal and Speed Tuning in Brain Responses to Local and Global Motion Patterns. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL.
+- Fesi, J.D., Thomas, A.L., & Gilmore, R.O. (2012, October). Distinct space-time sampling thresholds of VEP responses to optic flow. Poster presented at the Society for Neuroscience meeting, New Orleans, LA. [PDF](../pdf/fesi-etal-sfn-2012.pdf)
+- Gilmore, R.O., Raudies, F., Kretch, K.S., Franchak, J.M., & Adolph, K.E. (2012, June). Do you see what I see? Comparing optic flow experienced by infants and their mothers. Poster presented at the International Conference on Infant Studies, Minneapolis, MN. [PDF](../pdf/gilmore-etal-icis-2012.pdf).
+- Fesi, J.D., Stiffler, J.R., & Gilmore, R.O. (2012, May). Speed tuning of cortical responses to 2D figures defined by motion contrast is non-uniform across contrast types. Poster presented at the Vision Sciences Society meeting, Naples, FL.
+- Thomas, A.L., Mancino, A.C., Elnathan, H.C., Fesi, J.D., Hwang, K.R., & Gilmore, R.O. (2012, May). Children’s cortical responses to optic flow patterns show differential tuning by pattern type, speed, scalp location, and age group. Poster presented at the Vision Sciences Society meeting, Naples, FL. [PDF](../pdf/thomas-etal-vss-2012.pdf).
+- Gilmore, R.O., Raudies, F., Kretch, K.S., Franchak, J.M., & Adolph, K.E. (2012, May). Patterns of optic flow experienced by infants and their mothers during locomotion. Poster presented at the Vision Sciences Society meeting, Naples, FL. [PDF](../pdf/gilmore-etal-vss-2012.pdf).
+- Raudies, F., Kretch, K.S., Franchak, J.M., Mingolla, E., Gilmore, R.O., & Adolph, K.E. (2012, May). Where do mothers point their head when they walk and where do babies point their head when they are carried? Poster presented at the Vision Sciences Society meeting, Naples, FL. [PDF](../pdf/raudies-etal-vss-2012.pdf).
 
 ** Materials **
 
@@ -31,6 +39,8 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 - Florian Raudies, Hewlett-Packard Research
 - Swapnaa Jayaraman, Indiana University
+- Amanda Thomas, Swarthmore College
+- Jeremy Fesi, CUNY
 
 ** Support **
 
@@ -45,6 +55,7 @@ The ability to sense regular or near-regular patterns serves critical biological
 ** Presentations **
 
 - Vedak, S.C., Gilmore, R.O., Kohler, P.J., Liu, Y., & Norcia, A.M. (2015, May). The salience of low-order visual features in highly self-similar wallpaper groups. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/vedak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/77).
+- Thomas, A.L., Gilmore, R.O., Norcia, A.M., Liu, Y., Fesi, J.D., Hwang, K.D., Stitt, J., & Liu, J. (2012, October). Visual patterns with rotational symmetry activate distinct cortical regions. Poster presented at the Society for Neuroscience meeting, New Orleans, LA.
 
 ** Collaborators **
 
