@@ -8,7 +8,9 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
-Gilmore, R.O., Adolph, K.E., & Millman, D.S. (in press). Transforming education research through open video data sharing. *Advances in Engineering Education*.
+Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. *PLoS ONE*. [doi: 10.1371/journal.pone.0157911](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at [http://doi.org/10.17910/B7QG6W](http://doi.org/10.17910/B7QG6W).
+
+Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
 
 Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science, 7*(2), 112-126. [doi: 10.1002/wcs.1379](http://doi.org/10.1002/wcs.1379).
 

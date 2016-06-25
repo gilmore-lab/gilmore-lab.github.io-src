@@ -10,6 +10,7 @@ Visual motion provides humans and animals with information about their own movem
 
 ** Publications **
 
+- Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. *PLoS ONE*. [doi: 10.1371/journal.pone.0157911](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at [http://doi.org/10.17910/B7QG6W](http://doi.org/10.17910/B7QG6W).
 - Gilmore, R.O., Raudies, F., & Jayaraman, S. (2015). What Accounts for Developmental Shifts in Optic Flow Sensitivity? *Proceedings of the IEEE International Conference on Development and Learning and Epigenetic Robotics*. [doi:10.1109/DEVLRN.2015.7345450](http:/doi.org/10.1109/DEVLRN.2015.7345450). Materials on Databrary at [doi:10.17910/B7988V](http://dx.doi.org/10.17910/B7988V).
 - Fesi, J.F., Thomas, A.L., & Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. *Vision Research*, 100, 56–71. [doi:10.1016/j.visres.2014.04.004](http://dx.doi.org/10.1016/j.visres.2014.04.004). [Materials on Databrary](https://databrary.org/volume/49).
 - Raudies, F. & Gilmore, R.O. (2014). Visual motion priors differ for
@@ -80,7 +81,7 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 ** Publications **
 
-- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (in press). Transforming education research through open video data sharing. *Advances in Engineering Education*.
+- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
 - Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
 - Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
 - Adolph, K.E., Gilmore, R.O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward Open Behavioral Science, *Psychological Inquiry: An International Journal for the Advancement of Psychological Theory*, *23*(3), 244-247. [doi:10.1080/1047840X.2012.705133](http://dx.doi.org/10.1080/1047840X.2012.705133).
