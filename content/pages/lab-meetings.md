@@ -2,7 +2,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2016 Semester, our meeting will be at 8:15 am on X in room X Moore.
+For the Fall 2016 Semester, our meeting will be at 8:15 am on [Day of Week]in room [Room #] Moore.
 
 ## Lab Journal Club
 
@@ -14,9 +14,9 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 	- Agenda  
 		- Welcome New Lab Members: Alyssa and Hifzah  
 		
-		- Did everyone get their background clearances completed? These are required to participate in data collection. If not, please see Elaine Prestia in room 140 Moore Building to see what you still need.  
+		- Did everyone get their background clearances completed? These are required to participate in data collection. If not, please see Elaine Prestia (140 Moore) to see what you still need.  
 		
-		- Required Training: Complete by XX/XX/2016  
+		- Required Training: Complete by 9/15/2016  
 			- [Clery Act Training](http://lrn.psu.edu/)  
 				- Daved, Michael O., Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
 			- [Building a Safe Penn State: Reporting Child Abuse](http://lrn.psu.edu/)  
@@ -26,6 +26,13 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 				- Sam, Alyssa, Hifzah  			
 			- Watch Epilepsy Video - Need to Schedule 
 				- Michael D., Karina, Katie, Auburn, Alyssa, Hifzah  
+				
+		- Lab participation  
+			- Volunteer or Credit?
+				- If participating in lab for Credit, the psych 494 form must be signed by Dr. Gilmore and returned to the Psychology Advising Office (125 Moore) by Friday 8/26/2016 or you will be charged a late fee.
+			- How many hours per week? 
+				- 2 credits = 6 hours
+				- 3 credits = 9 hours
 					
 
 ### Spring 2016  
