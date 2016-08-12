@@ -2,13 +2,33 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Spring 2016 Semester, our meeting will be at 8:15 am on Tuesdays in room 350 Moore.
+For the Fall 2016 Semester, our meeting will be at 8:15 am on X in room X Moore.
 
 ## Lab Journal Club
 
 Twice a month at Lab Meetings we will discuss a paper related to research in the lab or of interest to the student who is presenting the paper. Please read the article and be prepared to discuss it.
 
 ## Lab Meeting Minutes
+
+- 2016-08-  
+	- Agenda  
+		- Welcome New Lab Members: Alyssa and Hifzah  
+		
+		- Did everyone get their background clearances completed? These are required to participate in data collection. If not, please see Elaine Prestia in room 140 Moore Building to see what you still need.  
+		
+		- Required Training: Complete by XX/XX/2016  
+			- [Clery Act Training](http://lrn.psu.edu/)  
+				- Daved, Michael O., Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
+			- [Building a Safe Penn State: Reporting Child Abuse](http://lrn.psu.edu/)  
+				- Daved, Michael O., Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
+			- [IRB CITI Training](http://citi.psu.edu/)  
+				- Complete both Modules: Biomedical and Social Science  
+				- Sam, Alyssa, Hifzah  			
+			- Watch Epilepsy Video - Need to Schedule 
+				- Michael D., Karina, Katie, Auburn, Alyssa, Hifzah  
+					
+
+### Spring 2016  
 
 - 2016-03-29
 	- Next meeting on 2016-04-12
