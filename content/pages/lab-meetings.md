@@ -2,7 +2,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2016 Semester, our meeting will be at 8:15 am on [Day of Week]in room [Room #] Moore.
+For the Fall 2016 Semester, our meeting will be at 8:15 am on **[Day of Week]** in room **[Room #]** Moore.
 
 ## Lab Journal Club
 
@@ -12,8 +12,22 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 - 2016-08-  
 	- Agenda  
-		- Welcome New Lab Members: Alyssa and Hifzah  
+		- Introductions
+			- Andrea Seisler, Lab Manager
+			- Returning Lab Members
+				- Daved, Michael O., Sam, Shivani, Raya, Michael D. Michelle, Karina, Katie, Auburn  
+			- New Lab Members: Alyssa and Hifzah  
 		
+		- Highlights of active projects  
+			- Optic Flow  
+				- Infant motion coherence (MOCO) EEG - 8 more participants  
+				- Child motion form (MOFO) EEG - Analysis/Writing  
+				- Child motion form (MOCO) behavior - 1 more participant  
+				- Infant motion statistics 
+			- Symmetry  
+				- Adults' sorting behavior - Analysis/Writing  
+			- [Databrary](http://nyu.databrary.org/)  
+			
 		- Did everyone get their background clearances completed? These are required to participate in data collection. If not, please see Elaine Prestia (140 Moore) to see what you still need.  
 		
 		- Required Training: Complete by 9/15/2016  
@@ -25,14 +39,14 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 				- Complete both Modules: Biomedical and Social Science  
 				- Sam, Alyssa, Hifzah  			
 			- Watch Epilepsy Video - Need to Schedule 
-				- Michael D., Karina, Katie, Auburn, Alyssa, Hifzah  
+				- Michael D., Karina, Katie, Auburn, Alyssa, Hifzah    
 				
 		- Lab participation  
-			- Volunteer or Credit?
-				- If participating in lab for Credit, the psych 494 form must be signed by Dr. Gilmore and returned to the Psychology Advising Office (125 Moore) by Friday 8/26/2016 or you will be charged a late fee.
-			- How many hours per week? 
-				- 2 credits = 6 hours
-				- 3 credits = 9 hours
+			- Volunteer or Credit?  
+				- If participating in lab for Credit, the psych 494 form must be signed by Dr. Gilmore and returned to the Psychology Advising Office (125 Moore) by Friday 8/26/2016 or you will be charged a late fee.  
+			- How many hours per week?  
+				- 2 credits = 6 hours  
+				- 3 credits = 9 hours  
 					
 
 ### Spring 2016  
