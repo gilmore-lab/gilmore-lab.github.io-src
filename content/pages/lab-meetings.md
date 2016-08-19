@@ -2,7 +2,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2016 Semester, our meeting will be at 8:15 am on **[Day of Week]** in room **[Room #]** Moore.
+For the Fall 2016 Semester, our meeting will be at **8:00 am** on **Tuesdays** in room **[Room #] Moore**.
 
 ## Lab Journal Club
 
@@ -10,7 +10,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
-- 2016-08-  
+- 2016-08-30  
 	- Agenda  
 		- Introductions
 			- Andrea Seisler, Lab Manager
@@ -20,7 +20,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 		
 		- Highlights of active projects  
 			- Optic Flow  
-				- Infant motion coherence (MOCO) EEG - 8 more participants  
+				- Infant motion coherence (MOCO) EEG - 7 more participants  
 				- Child motion form (MOFO) EEG - Analysis/Writing  
 				- Child motion form (MOCO) behavior - 1 more participant  
 				- Infant motion statistics 
@@ -32,9 +32,9 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 		
 		- Required Training: Complete by 9/15/2016  
 			- [Clery Act Training](http://lrn.psu.edu/)  
-				- Daved, Michael O., Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
+				- Daved, Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
 			- [Building a Safe Penn State: Reporting Child Abuse](http://lrn.psu.edu/)  
-				- Daved, Michael O., Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
+				- Daved, Sam, Shivani, Michael D., Alyssa, Hifzah  
 			- [IRB CITI Training](http://citi.psu.edu/)  
 				- Complete both Modules: Biomedical and Social Science  
 				- Sam, Alyssa, Hifzah  			
