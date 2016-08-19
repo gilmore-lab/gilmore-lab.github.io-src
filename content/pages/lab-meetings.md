@@ -10,7 +10,7 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
-- 2016-08-30  
+- 2016-08-23  
 	- Agenda  
 		- Introductions
 			- Andrea Seisler, Lab Manager
@@ -20,17 +20,18 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 		
 		- Highlights of active projects  
 			- Optic Flow  
-				- Infant motion coherence (MOCO) EEG - 7 more participants  
-				- Child motion form (MOFO) EEG - Analysis/Writing  
-				- Child motion form (MOCO) behavior - 1 more participant  
+				- [Infant motion coherence (MOCO) EEG](https://nyu.databrary.org/volume/146) - 7 more participants  
+				- [Child motion form (MOFO) EEG](https://nyu.databrary.org/volume/144) - Analysis/Writing  
+				- [Child motion form (MOCO) behavior](https://nyu.databrary.org/volume/218) - 1 more participant  
 				- Infant motion statistics 
 			- Symmetry  
 				- Adults' sorting behavior - Analysis/Writing  
-			- [Databrary](http://nyu.databrary.org/)  
-			
+			- [Databrary](http://nyu.databrary.org/)      
+						
 		- Did everyone get their background clearances completed? These are required to participate in data collection. If not, please see Elaine Prestia (140 Moore) to see what you still need.  
 		
-		- Required Training: Complete by 9/15/2016  
+		- Required Training: Complete by 9/15/2016 
+		  Send all Certificates of Completion to the lab gmail account
 			- [Clery Act Training](http://lrn.psu.edu/)  
 				- Daved, Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
 			- [Building a Safe Penn State: Reporting Child Abuse](http://lrn.psu.edu/)  
@@ -39,7 +40,9 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 				- Complete both Modules: Biomedical and Social Science  
 				- Sam, Alyssa, Hifzah  			
 			- Watch Epilepsy Video - Need to Schedule 
-				- Michael D., Karina, Katie, Auburn, Alyssa, Hifzah    
+				- Michael D., Karina, Katie, Auburn, Alyssa, Hifzah  
+				  
+		- Gather Contact information: PSU ID, PSU email, email for calendar invitations, phone   
 				
 		- Lab participation  
 			- Volunteer or Credit?  
