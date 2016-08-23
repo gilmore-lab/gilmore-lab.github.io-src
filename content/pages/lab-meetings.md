@@ -2,7 +2,7 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2016 Semester, our meeting will be at **8:00 am** on **Tuesdays** in room **[Room #] Moore**.
+For the Fall 2016 Semester, our meeting will be at **8:00 am** on **Tuesdays** in room **444 Moore**.
 
 ## Lab Journal Club
 
@@ -11,7 +11,8 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 ## Lab Meeting Minutes
 
 - 2016-08-23  
-	- Agenda  
+	+ Attending - Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah 
+	+ Agenda  
 		- Introductions
 			- Andrea Seisler, Lab Manager
 			- Returning Lab Members
@@ -39,9 +40,13 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 			- [IRB CITI Training](http://citi.psu.edu/)  
 				- Complete both Modules: Biomedical and Social Science  
 				- Sam, Alyssa, Hifzah  			
-			- Watch Epilepsy Video - Need to Schedule 
-				- Michael D., Karina, Katie, Auburn, Alyssa, Hifzah  
+			- Watch Epilepsy Video
+				- Michael D., Karina - Need to Schedule 
+				- Katie, Auburn, Hifzah - 8/30 10:30am Room 449
+				- Alyssa - 8/30 after lab meeting Room 449
 				  
+		- If you have trouble logging in for the Clery Act or Reporting Child Abuse Training, please email learning@psu.edu to have your account reset.
+		
 		- Gather Contact information: PSU ID, PSU email, email for calendar invitations, phone   
 				
 		- Lab participation  
@@ -50,7 +55,14 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 			- How many hours per week?  
 				- 2 credits = 6 hours  
 				- 3 credits = 9 hours  
-					
+				
+	+ Action Items  
+	    - First students for paper assignments - Sam, Shivani, Alyssa, Hifzah  
+	    - Interested in learning 
+	        - coding (e.g. R, SPSS)
+	        - MRI data collection/analysis
+	        - post ideas for papers to discuss
+	        				
 
 ### Spring 2016  
 
