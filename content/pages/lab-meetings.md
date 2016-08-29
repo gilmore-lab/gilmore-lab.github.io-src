@@ -10,6 +10,25 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 
 ## Lab Meeting Minutes
 
+- 2016-08-30
+	+ Attending - 
+	+ Agenda
+		* 
+		* Required Training: Complete by 9/15/2016  
+		  Send all Certificates of Completion to the lab gmail account
+			- [Clery Act Training](http://lrn.psu.edu/)  
+				- Daved, Sam, Shivani, Michael D., Michelle, Alyssa, Hifzah  
+			- [Building a Safe Penn State: Reporting Child Abuse](http://lrn.psu.edu/)  
+				- Daved, Sam, Shivani, Michael D., Alyssa, Hifzah  
+			- [IRB CITI Training](http://citi.psu.edu/)  
+				- Complete both Modules: Biomedical and Social Science  
+				- Sam, Alyssa, Hifzah  			
+			- Watch Epilepsy Video
+				- Michael D. - Need to Schedule 
+				- Katie, Auburn, Hifzah - Today 10:30am Room 449
+				- Alyssa - Today after lab meeting Room 449
+			- Background Check Completion Date
+				
 - 2016-08-23  
 	+ Attending - Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah 
 	+ Agenda  
