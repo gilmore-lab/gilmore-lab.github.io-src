@@ -62,7 +62,7 @@ Raya has been an internationally competitive figure skater for 15 years. She coa
 
 ## Recent Alumni
 
-- Jun Oh
+- Jun Oh, Apprentice Ruby on Rails Developer, Launch Academy, Inc.
 - Amanda Thomas, Postdoctoral researcher, Swarthmore
 - William Adamiak, NIH IRTA
 - Shivam Vedak, Medical student
