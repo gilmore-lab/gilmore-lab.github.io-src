@@ -41,7 +41,7 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 	+ To Do
 		* Send .pdf of completion certificates to the lab gmail account
 		* Write Biography in [Markdown Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and send to lab gmail account
-		* Read 1st chapter 'An Introduction to Vision Science' - will be posted on box [gilmore-lab/lab-meeting-materials](https://psu.app.box.com/files/0/f/11122291553/lab-meeting-materials)
+		* Read 1st chapter 'An Introduction to Vision Science' - posted on box [gilmore-lab/references/Palmer-1999/palmer-1999-chap-1.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
 				
 - 2016-08-23  
 	+ Attending - Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah 

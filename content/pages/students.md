@@ -69,7 +69,7 @@ Raya has been an internationally competitive figure skater for 15 years. She coa
 - Dan Elbich, Graduate student, Penn State
 - Jeremy Fesi, Ph.D., Postdoctoral Scientist, CUNY
 - Lorena Gonzalez, Graduate student, Penn State
-- Ricky Groner, Graduate student, Penn State
-- Ken Hwang, Programmer, College of the Liberal Arts
+- Ricky Groner, IT Support Specialist, Huck Institutes of the Life Sciences, Penn State
+- Ken Hwang, Consultant, Anexinet
 - Matthew Lee, MBA student, Penn State
 - Patricia Jones, Optometry student, Pennsylvania College of Optometry
