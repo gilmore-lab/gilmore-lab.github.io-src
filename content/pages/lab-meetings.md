@@ -4,16 +4,26 @@ Title: lab-meetings
 
 For the Fall 2016 Semester, our meeting will be at **8:00 am** on **Tuesdays** in room **444 Moore**.
 
+## Lab Meeting Dates
+September 13  
+September 27  
+October 11  
+October 25  
+November 15  
+November 29  
+December 6  
+
+
 ## Lab Journal Club
 
-Twice a month at Lab Meetings we will discuss a paper related to research in the lab or of interest to the student who is presenting the paper. Please read the article and be prepared to discuss it.
+At Lab Meetings we will discuss a paper related to research in the lab. Please read the article and be prepared to discuss it.
 
 ## Lab Meeting Minutes
 
 - 2016-08-30
-	+ Attending - 
+	+ Attending - Rick, Andrea, Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah
 	+ Agenda
-		* 
+		* Overview of lab meetings and projects for the semester.
 		* Required Training: Complete by 9/15/2016  
 		  Send all Certificates of Completion to the lab gmail account
 			- [Clery Act Training](http://lrn.psu.edu/)  
@@ -28,6 +38,10 @@ Twice a month at Lab Meetings we will discuss a paper related to research in the
 				- Katie, Auburn, Hifzah - Today 10:30am Room 449
 				- Alyssa - Today after lab meeting Room 449
 			- Background Check Completion Date
+	+ To Do
+		* Send .pdf of completion certificates to the lab gmail account
+		* Write Biography in [Markdown Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and send to lab gmail account
+		* Read 1st chapter 'An Introduction to Vision Science' - will be posted on box [gilmore-lab/lab-meeting-materials](https://psu.app.box.com/files/0/f/11122291553/lab-meeting-materials)
 				
 - 2016-08-23  
 	+ Attending - Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah 
