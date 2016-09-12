@@ -20,6 +20,21 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 
 ## Lab Meeting Minutes
 
+- 2016-09-13
+	+ Attending - 
+	+ Agenda
+		* Discuss 1st chapter 'An Introduction to Vision Science':  [gilmore-lab/references/Palmer-1999/palmer-1999-chap-1.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
+	+ To Do
+		* Write Biography in [Markdown Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and send to lab gmail account	
+		* Required Training: Complete by 9/15/2016  
+		  Send all Certificates of Completion to the lab gmail account
+			- [Clery Act Training](http://lrn.psu.edu/)  
+				- Daved, Michael D., Michelle, Hifzah  
+			- [Building a Safe Penn State: Reporting Child Abuse](http://lrn.psu.edu/)  
+				- Daved, Michael D., Hifzah  
+			- [IRB CITI Training](http://citi.psu.edu/)  
+				- Complete both Modules: Biomedical and Social Science  
+				- Hifzah  	
 - 2016-08-30
 	+ Attending - Rick, Andrea, Daved, Michael O., Sam, Shivani, Michelle, Katie, Auburn, Alyssa, Hifzah
 	+ Agenda
