@@ -33,9 +33,9 @@ Michael is interested in building his skills in a lab setting, and using said sk
 
 ### Sam Pai, Undergraduate Student
 
-Sam Pai is a Junior who majors in biochemisty and molecular biology (BMB) and minors in psychology. This is his fourth semester in Dr. Gilmore's lab.
+Sam Pai is a graduating senior with majors in Biochemistry and Molecular Biology [BMB](http://bmb.psu.edu/) and minor in psychology. This is his seventh and sadly the last semester in Dr. Gilmore's Lab.
 
-After graduating, he wants to study radiology (possibly neuroradiology) in medical school.
+After graduation, he wants to continue stuyding in medical school and specialize in neuro-radiology.
 
 ### Alyssa Pandos, Undergraduate Student  
 
