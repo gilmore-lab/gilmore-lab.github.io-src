@@ -21,10 +21,11 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 ## Lab Meeting Minutes
 
 - 2016-09-13
-	+ Attending - 
+	+ Attending - Rick, Andrea, Michael O., Michael D., Amber, Katie, Hifzah, Daved, Michelle, Alyssa, Shivani
 	+ Agenda
 		* Discuss 1st chapter 'An Introduction to Vision Science':  [gilmore-lab/references/Palmer-1999/palmer-1999-chap-1.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
 	+ To Do
+		* Read 2nd Chapter 'An Introduction to Vision Science': [gilmore-lab/references/Palmer-1999/palmer-1999-chap-2.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
 		* Write Biography in [Markdown Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and send to lab gmail account	
 		* Required Training: Complete by 9/15/2016  
 		  Send all Certificates of Completion to the lab gmail account
