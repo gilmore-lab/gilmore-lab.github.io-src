@@ -20,11 +20,15 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 
 ## Lab Meeting Minutes
 
+- 2016-09-27
+	+ Agenda
+		* Discuss 2nd Chapter 'An Introduction to Vision Science': [gilmore-lab/references/Palmer-1999/palmer-1999-chap-2.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
+
 - 2016-09-13
 	+ Attending - Rick, Andrea, Michael O., Michael D., Amber, Katie, Hifzah, Daved, Michelle, Alyssa, Shivani
 	+ Agenda
 		* Discuss 1st chapter 'An Introduction to Vision Science':  [gilmore-lab/references/Palmer-1999/palmer-1999-chap-1.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
-	+ To Do
+	+ Action Items
 		* Read 2nd Chapter 'An Introduction to Vision Science': [gilmore-lab/references/Palmer-1999/palmer-1999-chap-2.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
 		* Write Biography in [Markdown Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and send to lab gmail account	
 		* Required Training: Complete by 9/15/2016  
@@ -54,7 +58,7 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 				- Katie, Auburn, Hifzah - Today 10:30am Room 449
 				- Alyssa - Today after lab meeting Room 449
 			- Background Check Completion Date
-	+ To Do
+	+ Action Items
 		* Send .pdf of completion certificates to the lab gmail account
 		* Write Biography in [Markdown Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and send to lab gmail account
 		* Read 1st chapter 'An Introduction to Vision Science' - posted on box [gilmore-lab/references/Palmer-1999/palmer-1999-chap-1.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
