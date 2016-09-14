@@ -22,7 +22,7 @@ ars17 AT-SIGN psu DOT edu</p>
 ### Daved Fared, Undergraduate Student
 
 ### Auburn Lattanzio, Undergraduate Student
-Auburn is a Junior majoring in Mathematics and minoring in Psychology at Pennsylvania State University. She hopes to apply the skills she has learned as a Math major to research in Psychology after she graduates in May 2017.
+Auburn is a Senior majoring in Mathematics and minoring in Psychology at Pennsylvania State University. After graduating in Spring 2017, she hopes to apply the skills she has learned as a Math major to Psychology research in grad school.
 
 ### Hifzah Malik, Undergraduate Student  
 
@@ -49,7 +49,7 @@ Shivani Patel is an undergraduate student majoring in Biological Genetics and mi
 
 ### Katie Torres, Undergraduate Student  
 
-Katie Torres is a Junior majoring in Social Psychology in the [Penn State Social Psychology Department](http://psych.la.psu.edu/graduate/program-areas/social), intending to graduate in spring of 2017. She intends to continue her education in grad school to be a Personality Analyst. 
+Katie Torres is a Senior majoring in Social Psychology in the [Penn State Social Psychology Department](http://psych.la.psu.edu/graduate/program-areas/social), intending to graduate in spring of 2017. She intends to continue her education in grad school to be a Personality Analyst. 
 
 Katie has been a [Power Lifter](http://sites.psu.edu/clubsports/clubs/powerlifting/) for two years and plans on getting certified in personal training. In her free time she enjoys doing yoga and meditating.  
 
