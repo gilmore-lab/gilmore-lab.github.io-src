@@ -22,7 +22,10 @@ ars17 AT-SIGN psu DOT edu</p>
 ### Daved Fared, Undergraduate Student
 
 ### Auburn Lattanzio, Undergraduate Student
+
 Auburn is a Senior majoring in Mathematics and minoring in Psychology at Pennsylvania State University. After graduating in Spring 2017, she hopes to apply the skills she has learned as a Math major to Psychology research in grad school.
+
+In her free time, Auburn is a Math Instructor at [Mathnasium] (http://www.mathnasium.com/statecollege/our-team), a tutoring center that focuses on instructing students in grades 2 through 12.
 
 ### Hifzah Malik, Undergraduate Student  
 
