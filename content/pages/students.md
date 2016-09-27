@@ -29,6 +29,10 @@ In her free time, Auburn is a Math Instructor at [Mathnasium](http://www.mathnas
 
 ### Hifzah Malik, Undergraduate Student  
 
+Hifzah is a junior majoring in BioBehavioral Health and is minoring in Psychology at Pennsylvania State University. She plans on going to PA school after graduation to become a physician assistant.
+
+Other than social science, she also spends her time taking part in the [She's the First](https://www.shesthefirst.org/campus-chapters/) club which focuses on fundraising money to provide education for girls in third world countries. 
+
 ### Michael O'Neill, Undergraduate Student
 Michael grew up in State College, PA and graduated from State College Area High School in May 2013. He is currently enrolled at Penn State University, double majoring in Psychology and Communication: Arts and Sciences as an undergrad. He plans to graduate in 2017.
 

@@ -20,9 +20,26 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 
 ## Lab Meeting Minutes
 
+- 2016-10-11
+	+ Agenda
+		* Discuss: Fesi 2011 'Distinct cortical responses to 2D figures defined by motion contrast' 
+
 - 2016-09-27
+	+ Attending - Rick, Andrea, Amber, Alyssa, Michael O., Hifzah, Sam
 	+ Agenda
 		* Discuss 2nd Chapter 'An Introduction to Vision Science': [gilmore-lab/references/Palmer-1999/palmer-1999-chap-2.pdf](https://psu.app.box.com/files/0/f/11123835210/Palmer-1999)
+	+ Action Items
+		* Everyone Read Fesi 2011 'Distinct cortical responses to 2D figures defined by motion contrast' found      
+			- On Box: [gilmore-lab/references/LabReading/Fesi2011.pdf](https://psu.app.box.com/files/0/f/11458072981/1/f_96049144629)  
+			- On PubMed: [Distinct cortical responses to 2D figures defined by motion contrast](https://www-ncbi-nlm-nih-gov.ezaccess.libraries.psu.edu/pubmed/21820002)  
+		*  Write Biography in Markdown Format - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and send to lab gmail account
+			- Michael D., Daved, Alyssa
+		* Required Training: Complete by 9/15/2016  
+		  Send all Certificates of Completion to the lab gmail account
+			- [Clery Act Training](http://lrn.psu.edu/)  
+				- Daved, Michael D., Michelle
+			- [Building a Safe Penn State: Reporting Child Abuse](http://lrn.psu.edu/)  
+				- Daved, Michael D., Hifzah 		
 
 - 2016-09-13
 	+ Attending - Rick, Andrea, Michael O., Michael D., Amber, Katie, Hifzah, Daved, Michelle, Alyssa, Shivani
