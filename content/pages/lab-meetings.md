@@ -22,7 +22,8 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 
 - 2016-10-11
 	+ Agenda
-		* Discuss: Fesi 2011 'Distinct cortical responses to 2D figures defined by motion contrast' 
+		* Discuss: Fesi, J.F., Thomas, A.L., & Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. Vision Research, 100, 56–71. [doi:10.1016/j.visres.2014.04.004](http://doi.org/10.1016/j.visres.2014.04.004).
+		* Review draft [poster for SfN 16](https://github.com/gilmore-lab/child-motion-form/blob/master/pubs/sfn-16-poster/poster_landscape.pdf). 
 
 - 2016-09-27
 	+ Attending - Rick, Andrea, Amber, Alyssa, Michael O., Hifzah, Sam
