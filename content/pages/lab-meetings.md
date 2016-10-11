@@ -21,10 +21,15 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 ## Lab Meeting Minutes
 
 - 2016-10-11
+	+ Attending - Rick, Andrea, Amber, Daved, Michael O., Katie, Hifzah, Alyssa, Michelle  
 	+ Agenda
 		* Discuss: Fesi, J.F., Thomas, A.L., & Gilmore, R.O. (2014). Cortical responses to optic flow and motion contrast across patterns and speeds. Vision Research, 100, 56–71. [doi:10.1016/j.visres.2014.04.004](http://doi.org/10.1016/j.visres.2014.04.004).
 		* Review draft [poster for SfN 16](https://github.com/gilmore-lab/child-motion-form/blob/master/pubs/sfn-16-poster/poster_landscape.pdf). 
-
+	+ Action Items  
+		*  Write Biography in Markdown Format for [lab website](http://gilmore-lab.github.io/pages/students.html) - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+			- Incorporate at least **one link** and send to lab gmail account  
+			- Michael D., Daved, Alyssa  
+			
 - 2016-09-27
 	+ Attending - Rick, Andrea, Amber, Alyssa, Michael O., Hifzah, Sam
 	+ Agenda
