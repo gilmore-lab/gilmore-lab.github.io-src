@@ -8,6 +8,8 @@ Johnson, M.H., Munakata, Y., & Gilmore, R.O. (2002). *Brain development and cogn
 
 ## Peer-reviewed Articles
 
+Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
+
 Gilmore, R.O., Thomas, A.L., & Fesi, J.D (2016). Children's brain responses to optic flow vary by pattern type and motion speed. *PLoS ONE*. [doi: 10.1371/journal.pone.0157911](http://doi.org/10.1371/journal.pone.0157911). Materials on Databrary at [http://doi.org/10.17910/B7QG6W](http://doi.org/10.17910/B7QG6W).
 
 Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
@@ -101,6 +103,8 @@ response task. *Journal of Experimental Child Psychology,* *59*,
 397-418. [doi:10.1006/jecp.1995.1019](http://dx.doi.org/10.1006/jecp.1995.1019).
 
 ## Book chapters and technical reports
+
+- Gilmore, R.O., & Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in *Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success*. Hall, Kara, Croyle, R., & Vogel, A. (Eds.). Springer.
 
 Gilmore, R.O. & Fesi, J.D. (2009). Infant Perception: Methods of Testing. In B. Goldstein (Ed.), *Encyclopedia of Perception*, Sage Publishing. [doi:10.4135/9781412972000](http://dx.doi.org/10.4135/9781412972000).
 

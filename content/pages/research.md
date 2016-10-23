@@ -19,6 +19,8 @@ infants and mothers. *Neural Computation*, *26*(11), 2652-2668. [doi:10.1162/NEC
 
 ** Presentations **
 
+- Gilmore, R.O., Fared, D.A., Dexheimer, M.G., & Seisler, A.R. (2016, November). The appearance and disappearance of visual forms defined by differential motion evokes distinctive EEG responses in school-age children. Presentation at the Society for Neuroscience meeting in San Diego, CA. [PDF](https://github.com/gilmore-lab/child-motion-form/blob/master/pubs/sfn-16-poster/poster_landscape.pdf).
+- Gilmore, R.O. (2016, October). Go with the flow: The development of behavioral sensitivity and brain responses to optic flow. Talk at the Penn State Action club meeting. [HTML slides](http://rawgit.com/gilmore-lab/psu-action-club-2016-10-28/master/gilmore-action-club.html).
 - Jayaraman, S., Gilmore, R.O., & Raudies, F. (2016, May). Changes in early optic flow experiences across development and culture. Talk at the International Congress on Infant Studies (ICIS) in New Orleans, LA. [HTML slides](https://rawgit.com/gilmore-lab/ICIS-2016-New-Orleans/master/jayaraman-gilmore-raudies-ICIS-2016.html).
 - Gilmore, R.O. (2016, September). Open Science Practices Have Made My Work Better. Talk at the Penn State Psychology Cognitive Area brown bag. [HTML slides](https://cdn.rawgit.com/psu-psychology/cognitive/master/brown-bag/2015-09-09-gilmore/cog-bbag-2015-09-09.html).
 - Adamiak, W., Thomas, A.L., Patel, S.M., & Gilmore. R.O. (2015, May). Adult observers’ sensitivity to optic flow varies by pattern and speed. Poster presented at the Vision Sciences Society meeting, St. Pete's Beach, FL. [PDF](../pdfs/adamiak-etal-vss-2015.pdf). [Materials on Databrary](http://databrary.org/volume/73).
@@ -81,6 +83,8 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 ** Publications **
 
+- Gilmore, R.O., & Adolph, K.E. (in press). Open sharing of research video: Breaking the boundaries of the research team, in *Advancing Social and Behavioral Health Research through Cross-disciplinary Team Science: Principles for Success*. Hall, Kara, Croyle, R., & Vogel, A. (Eds.). Springer.
+- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
 - Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016). Transforming education research through open video data sharing. *Advances in Engineering Education*, *5*(2). [HTML](http://advances.asee.org/publication/transforming-education-research-through-open-video-data-sharing/).
 - Gilmore, R.O. (2016). From big data to deep insight in developmental science. *Wiley Interdisciplinary Reviews Cognitive Science*. [DOI: 10.1002/wcs.1379](http://doi.org/10.1001/wcs.1379).
 - Gordon, A., Millman, D.S., Steiger, L., Adolph, K.E., & Gilmore, R.O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*. [doi:10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238).
@@ -88,6 +92,9 @@ Databrary is an [open-source](http://github.com/databrary) software project. Pen
 
 ** Presentations **
 
+- Gilmore, R.O. (2016, October). The future of big data in developmental science. Talk given at a meeting of the Penn State Child Study Center (CSC) faculty. [HTML slides](http://rawgit.com/gilmore-lab/psu-child-study-ctr-talk-2016-10-28/master/gilmore-csc-talk.html).
+- Gilmore, R.O. (2016, September). Donald Rumsfeld and the promise of a 'big data' science of human behavior. Talk given at a meeting of the Stochastic Modeling and Computational Statistics (SMACS) group, Department of Statistics. [HTML slides](https://rawgit.com/gilmore-lab/psu-stats-smacs-2016-talk/master/gilmore-smacs-2016-09-02.html).
+- Gilmore, R.O., Adolph, K.E., & Millman, D.S. (2016, August). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. [HTML slides](https://rawgit.com/databrary/presentations/master/nysds-2016/gilmore-nysds-2016.html). [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
 - Gilmore, R.O., Adolph, K.E., & Millman, D. (2016, May). Video doesn't lie: Reproducible workflows with Databrary. Talk given at the NYU Data Science Center [Symposium on Reproducibility](https://reproduciblescience.org/nyu/events/reproducibility-symposium-2016/schedule/). [HTML slides](https://rawgit.com/databrary/presentations/master/nyu-data-science-reproducibility-16/be-bold.html#1)
 - Gilmore, R.O., Adolph, K.E., Millman, D.S., Steiger, L., & Simon, D.A. (2015, May). Sharing displays and data from vision science research with Databrary. Poster presented at the Vision Sciences Society meeting, St. Pete Beach, FL. [PDF](../pdfs/gilmore-etal-vss-2015.pdf).
 
