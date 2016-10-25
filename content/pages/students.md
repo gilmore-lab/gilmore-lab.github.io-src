@@ -46,6 +46,8 @@ After graduation, he wants to continue stuyding in medical school and specialize
 
 ### Alyssa Pandos, Undergraduate Student  
 
+Alyssa is an undergraduate student pursuing a degree in Psychology with a concentration in Neuroscience and a minor in Biology. She plans on graduating in the spring of 2018. After graduation, her ultimate goal is to further her education by obtaining a PhD in a field of Neuroscience or Neuropsychology. 
+
 ### Shivani Patel, Undergraduate Student
 
 Shivani Patel is an undergraduate student majoring in Biological Genetics and minoring in Psychology at Pennsylvania State University. She plans to attend medical school after graduation and become a pediatrician. For the summer of 2015, she plans to attend a medical ashram in India where she will explore different fields in medicine, while volunteering at blood and eye banks.

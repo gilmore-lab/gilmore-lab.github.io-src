@@ -20,6 +20,12 @@ At Lab Meetings we will discuss a paper related to research in the lab. Please r
 
 ## Lab Meeting Minutes
 
+- 2016-10-25
+	+ Attending - Rick, Andrea, Amber, Alyssa, Sam, Michael O., Shivani, Michelle
+	+ Agenda 
+		* Discuss figures for moco behavioral child and adult data
+		* Discuss Child Study Center talk
+		
 - 2016-10-11
 	+ Attending - Rick, Andrea, Amber, Daved, Michael O., Katie, Hifzah, Alyssa, Michelle  
 	+ Agenda
