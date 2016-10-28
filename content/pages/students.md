@@ -19,6 +19,10 @@ ars17 AT-SIGN psu DOT edu</p>
 
 ### Michael Dexheimer, Undergraduate Student
 
+Michael is majoring in [Engineering Science](http://www.esm.psu.edu/) at The Pennsylvania State University. He is working to improve his understanding of research and technology in neuroscience.
+
+After graduating in the spring of 2018 Michael intends to further his education in medical school, where he will combine his interests in Engineering, Neuroscience, and Medicine. 
+
 ### Daved Fared, Undergraduate Student
 
 ### Auburn Lattanzio, Undergraduate Student
