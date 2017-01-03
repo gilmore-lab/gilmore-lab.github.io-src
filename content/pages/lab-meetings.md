@@ -2,24 +2,29 @@ Title: lab-meetings
 
 # Lab Meetings
 
-For the Fall 2016 Semester, our meeting will be at **8:00 am** on **Tuesdays** in room **444 Moore**.
+For the Spring 2017 Semester, our meeting will be at **8:00 am** every **Tuesday** in room **444 Moore**.
 
-## Lab Meeting Dates
-September 13  
-September 27  
-October 11  
-October 25  
-November 15  
-November 29  
-December 6  
+## Next Meeting: January 10, 2017
+ 
 
 
-## Lab Journal Club
+## Goals
 
-At Lab Meetings we will discuss a paper related to research in the lab. Please read the article and be prepared to discuss it.
+Learn R Markdown to enable the conversion of our current lab website from python to R markdown
 
 ## Lab Meeting Minutes
+- 2017-01-10
+	+ Attending -
+	+ Agenda
+		* Complete Forms for Credit
+		* Ensure all training is complete
+		* This semester we will focus on learning R Markdown
+			- Training Videos
+			- Mini projects
+			- Ultimate goal: Convert current lab website to R Markdown 	
 
+
+## Fall 2016
 - 2016-10-25
 	+ Attending - Rick, Andrea, Amber, Alyssa, Sam, Michael O., Shivani, Michelle
 	+ Agenda 
