@@ -4,9 +4,9 @@ Title: participants
 The Brain Development Laboratory is interested in how the visual system develops over time. To reach this goal, we use behavoral, EEG and MRI techniques to study how the infant, child and adult brain responds to  motion and pattern. 
 
 ## EEG Studies
-EEG (Electroencephalogram) is a technique which allows the electrical signals in the brain to be recorded. In these studies we are recording the brain activity while the participants watch images on a computer monitor. The studies at our lab take approximately 1 hour. We are currently looking for infants (4-7 months) to participate as child scientists. To learn more about how to get involved, please view the flyer below:
+EEG (Electroencephalogram) is a technique which allows the electrical signals in the brain to be recorded. In these studies we are recording the brain activity while the participants watch images on a computer monitor. The studies at our lab take approximately 1 hour. 
 
-- [Infant EEG Study](../images/37946-2014-08-26-recruiting-infant-flyer.jpg)
+- We do not have an active study at this time
 
 ## Behavioral Studies
 ### Symmetry Sorting Study  
@@ -15,7 +15,7 @@ We are studying how the brain perceives symmetry in two-dimensions. Participants
 - We do not have an active study at this time.
 
 ### Detection of Optic Flow
-In this study, participants view two images side by side on a computer screen and have to choose which one has coherent motion. We are currently looking for children to participate as child scientists.
+In this study, participants view two images side by side on a computer screen and have to choose which one has coherent motion. 
 
 - We do not have an active study at this time
 
